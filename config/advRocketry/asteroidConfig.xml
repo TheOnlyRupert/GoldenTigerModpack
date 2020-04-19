@@ -1,0 +1,38 @@
+<Asteroids>
+	<asteroid name="Small Asteroid" distance="10" mass="100" massVariability="0.5" minLevel="0" probability="10" richness="0.2" richnessVariability="0.5">
+		<ore itemStack="minecraft:iron_ore" chance="20" />
+		<ore itemStack="minecraft:gold_ore" chance="10" />
+		<ore itemStack="minecraft:redstone_ore" chance="10" />
+		<ore itemStack="minecraft:diamond_ore" chance="2" />
+		<ore itemStack="minecraft:lapis_ore" chance="5" />
+		<ore itemStack="minecraft:emerald_ore" chance="2" />
+		<ore itemStack="ThermalFoundation:Ore 0" chance="20" />
+		<ore itemStack="ThermalFoundation:Ore 1" chance="20" />
+		<ore itemStack="ThermalFoundation:Ore 2" chance="10" />
+		<ore itemStack="ThermalFoundation:Ore 3" chance="10" />
+		<ore itemStack="ThermalFoundation:Ore 4" chance="10" />
+		<ore itemStack="ThermalFoundation:Ore 5" chance="10" />
+		<ore itemStack="TConstruct:SearedBrick 5" chance="10" />
+		<ore itemStack="libVulpes:libVulpesore0 0" chance="1" />
+		<ore itemStack="libVulpes:libVulpesore0 8" chance="10" />
+		<ore itemStack="libVulpes:libVulpesore0 10" chance="5" />
+	</asteroid>
+	<asteroid name="Iridium Enriched Asteroid" distance="100" mass="50" massVariability="0.5" minLevel="0" probability="0.75" richness="0.2" richnessVariability="0.3">
+		<ore itemStack="minecraft:iron_ore" chance="10" />
+		<ore itemStack="minecraft:gold_ore" chance="10" />
+		<ore itemStack="minecraft:redstone_ore" chance="10" />
+		<ore itemStack="minecraft:diamond_ore" chance="10" />
+		<ore itemStack="minecraft:lapis_ore" chance="10" />
+		<ore itemStack="minecraft:emerald_ore" chance="10" />
+		<ore itemStack="ThermalFoundation:Ore 0" chance="10" />
+		<ore itemStack="ThermalFoundation:Ore 1" chance="10" />
+		<ore itemStack="ThermalFoundation:Ore 2" chance="10" />
+		<ore itemStack="ThermalFoundation:Ore 3" chance="10" />
+		<ore itemStack="ThermalFoundation:Ore 4" chance="10" />
+		<ore itemStack="ThermalFoundation:Ore 5" chance="10" />
+		<ore itemStack="TConstruct:SearedBrick 5" chance="10" />
+		<ore itemStack="libVulpes:libVulpesore0 0" chance="5" />
+		<ore itemStack="libVulpes:libVulpesore0 8" chance="15" />
+		<ore itemStack="libVulpes:libVulpesore0 10" chance="25" />
+	</asteroid>
+</Asteroids>

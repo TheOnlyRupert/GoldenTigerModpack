@@ -1,0 +1,36 @@
+{
+	"nether_roof": {
+        "template": "uniform",
+        "generator": "sparse-cluster",
+        "block": "minecraft:soul_sand",
+        "material": "minecraft:bedrock",
+        "clusterSize": 4,
+        "numClusters": 1,
+        "minHeight": 124,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+    "underdark_roof": {
+        "template": "uniform",
+        "generator": "sparse-cluster",
+        "block": "minecraft:stone",
+        "material": "minecraft:bedrock",
+        "clusterSize": 2,
+        "numClusters": 1,
+        "minHeight": 252,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-2
+		]
+    }
+}

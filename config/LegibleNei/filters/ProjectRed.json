@@ -1,0 +1,11 @@
+{
+ProjRed|Compatibility:[
+	{_hide:[projectred.compatibility.,[liqredstone],[]]};
+],
+ProjRed|Core:[
+	{_hide:[projectred.core.,[part],[11-18,35-59]]};
+],
+ProjRed|Illumination:[
+	{_hide:[projectred.illumination.,[airousLight],[]]};
+]
+}

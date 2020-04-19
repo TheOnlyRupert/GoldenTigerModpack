@@ -1,0 +1,18 @@
+# (Current version) v1.2.0 released 2020_03_20
+- Changed chunkloader operation cost from 2 hours to 12 hours per dollar
+- Tweaked infernal mobs spawn rates (higher)
+- Added twilight forest mod and integrated it into magic mod progression (beta)
+- 
+
+# v1.1.0 released 2020_01_25
+- Added "BugPatch" mod which fixes many long-standing minecraft bugs
+	INCLUDING the boat desync bug
+- Updated NEI with the new bookmark feature
+	Press "A" on an item to add/remove it
+- Buildcraft pumps no longer need real RF power
+- Hunger no longer depletes while AFK
+- Switched double slab break type (hold shift to break both)
+- AI tweaks:
+	Spiders can no longer spit attack
+	Zombies/Pigman Zombies can no longer spawn with bows
+	Silverfish are more challenging

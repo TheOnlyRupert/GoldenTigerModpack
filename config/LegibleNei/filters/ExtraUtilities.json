@@ -1,0 +1,7 @@
+{ExtraUtilities:[
+    {keep-one:[[microblocks],[]]};
+	{keep-one:[[drum],[0,1]]};
+	{keep:[[greenscreen],[8]]};
+	{hide:[[*builderswand,conveyor],[]]};
+    ]
+}

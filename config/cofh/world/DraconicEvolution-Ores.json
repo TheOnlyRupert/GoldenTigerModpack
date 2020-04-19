@@ -1,0 +1,18 @@
+{
+    "draconium": {
+        "template": "uniform",
+        "block": "DraconicEvolution:draconiumOre",
+		"material": "minecraft:end_stone",
+        "clusterSize": 4,
+        "numClusters": 16,
+        "minHeight": 0,
+        "maxHeight": 255,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			1
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "salt": {
+        "template": "underwater",
+        "generator": "plate",
+        "block": "harvestcraft:salt",
+        "material": "minecraft:gravel",
+        "numClusters": 5,
+        "radius": 5,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			0
+        ]
+    }
+}

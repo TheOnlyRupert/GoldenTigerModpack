@@ -1,0 +1,24 @@
+{
+BuildCraft|Core:[
+	{hide:[[*GearItem,frameBlock,constructionMarkerBlock,eternalSpring,buildToolBlock],[]]};
+	{keep-one:[[paintBrush],[]]};
+	{hide:[[list],[0]]};
+],
+BuildCraft|Transport:[
+	{hide:[[pipeBlock],[]]};
+	{keep-one:[[pipeFacade],[],['*hollow:0b*','*hollow:1b*']]};
+	{keep:[[pipeLens],[0]]};
+],
+BuildCraft|Energy:[
+	{hide:[[blockRedPlasma],[]]};
+],
+BuildCraft|Factory:[
+	{hide:[[plainPipeBlock],[]]};
+],
+BuildCraft|Robotics:[
+	{keep-one:[[redstone_board],[]]};
+],
+BuildCraft|Silicon:[
+	{hide:[[package],[]]};
+]
+}

@@ -1,0 +1,5 @@
+{
+rftools:[
+	{hide:[[invisibleShieldBlock,noTickInvisibleShieldBlock,solidShieldBlock,noTickolidShieldBlock,proxyBlock],[]]};
+]
+}

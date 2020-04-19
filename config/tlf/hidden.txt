@@ -1,0 +1,11 @@
+#List of Hidden Players
+syxys:true
+theonlykale:true
+frozenrain_6:true
+theonlycletus:true
+theonlyrupert:true
+theonlyserver:true
+rickletickle:true
+theonlypapercut:true
+thelonecavalier:true
+theonlyrain6:true

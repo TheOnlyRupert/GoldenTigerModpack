@@ -1,0 +1,7 @@
+{
+Botania:[
+	{hide:[[doubleFlower*,mushroom,buriedPetals,manaFlame,fakeAir,gaiaHeadBlock,quartzType*,*SlabFull,brewFlask,brewVial,craftPattern,ancientWill,pestleAndMortar,stone, stone0Stairs,stone1Stairs,stone2Stairs,stone3Stairs,stone8Stairs,stone9Stairs,stone10Stairs,stone11Stairs,stone0Wall,stone0Slab,stone1Slab,stone2Slab,stone3Slab,stone8Slab,stone9Slab,stone10Slab,stone11Slab,quartzSlabManaFull,quartzSlabBlazeFull,quartzSlabLavenderFull,quartzSlabRedFull,quartzSlabElfFull,quartzSlabSunnyFull,prismarine,prismarine0Slab,prismarine1Slab,prismarine2Slab,prismarine0Stairs,prismarine0Wall,prismarine1Stairs,prismarine2Stairs,seaLamp],[]]};
+	{hide:[[manaResource],[10]]};
+	{keep-one:[[twigWand],[]]};
+	]
+}

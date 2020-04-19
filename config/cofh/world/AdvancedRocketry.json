@@ -1,0 +1,92 @@
+{
+    "rupert": {
+        "template": "uniform",
+        "block": "libVulpes:libVulpesore0",
+		"material": "minecraft:stone",
+        "clusterSize": 1,
+        "numClusters": 1,
+        "minHeight": 8,
+        "maxHeight": 20,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+			-11,
+			-10,
+			-9,
+			-8,
+			-7,
+			-6,
+			-5,
+			-4,
+			-3,
+			-2,
+            -1,
+			0,
+            1
+        ]
+    },
+    "titanium": {
+        "template": "uniform",
+        "block": {
+			"name": "libVulpes:libVulpesore0",
+			"metadata": 8
+		},
+		"material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 8,
+        "maxHeight": 20,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+			-11,
+			-10,
+			-9,
+			-8,
+			-7,
+			-6,
+			-5,
+			-4,
+			-3,
+			-2,
+            -1,
+			0,
+            1
+        ]
+    },
+    "iridium": {
+        "template": "uniform",
+        "block": {
+			"name": "libVulpes:libVulpesore0",
+			"metadata": 10
+		},
+		"material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 8,
+        "maxHeight": 20,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+			-11,
+			-10,
+			-9,
+			-8,
+			-7,
+			-6,
+			-5,
+			-4,
+			-3,
+			-2,
+            -1,
+			0,
+            1
+        ]
+    }
+}

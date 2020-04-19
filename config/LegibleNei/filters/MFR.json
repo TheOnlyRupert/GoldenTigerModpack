@@ -1,0 +1,7 @@
+{MineFactoryReloaded:[
+	{hide:[[machineBlock,tank,steam.still,bucket.biofuel,biofuel.still,cable.plastic,cable.redstone,rednet.logic,rednet.panel,rednet.meter,rednet.memorycard,upgrade.logic,plastic.bag,rocketlauncher,rocket,rail.cargo.dropoff,rail.cargo.pickup,rail.passenger.pickup,rail.passenger.dropoff,ceramicdye],[]]};
+	{hide:[[machine.1],[6,8,10-11]]};
+	{hide:[[machine.2],[9-10]]};
+	{keep-one:[[rubberwood.log],[]]};
+]
+}

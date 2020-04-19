@@ -1,0 +1,11 @@
+{
+appliedenergistics2:[
+	{keep-one:[[item.ItemFacade],[]]};
+	{keep:[item.,[ItemPaintBall],[0]]};
+	{_hide:[tile.Block,[MatrixFrame,CableBus,Paint],[]]};
+	{hide:[[item.ItemMultiPart],[0-15,20-35,40-55,60-75]]};
+	{hide:[[item.ItemMultiMaterial],[25,28]]};
+	{hide:[tile.,[SkyStoneSlabBlock.double,SkyStoneBlockSlabBlock.double,SkyStoneBrickSlabBlock.double,SkyStoneSmallBrickSlabBlock.double,FluixSlabBlock.double,QuartzSlabBlock.double,ChiseledQuartzSlabBlock.double,QuartzPillarSlabBlock.double,BlockSkyCompass,BlockVibrationChamber],[]]};
+	{hide:[item.,[ToolCertusQuartzWrench],[]]};
+	]
+}

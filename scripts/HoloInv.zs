@@ -1,0 +1,1 @@
+recipes.addShaped(<holoinventory:Hologlasses>, [[<minecraft:glass_pane>, <minecraft:iron_ingot>, <minecraft:glass_pane>], [<ore:dyeBlack>, <ore:chest>, <ore:dyeBlack>]]);

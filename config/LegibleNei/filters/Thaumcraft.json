@@ -1,0 +1,22 @@
+{
+Thaumcraft:[
+	{hide:[[blockManaPod,blockArcaneFurnace,blockWarded,blockHole,blockPortalEldritch,blockEldritchNothing,blockLootUrn,blockLootCrate,blockAlchemyFurnace],[]]};
+	{hide:[[ItemNugget],[0-4]]};
+	{hide:[[ItemResource],[18]]};
+],
+ThaumicTinkerer:[
+	{hide:[[gaseousShadow,infusedFarmland,wardSlab,wardSlabFull,fireEarth,fireWater,fireAir,fireFire,fireOrder,fireChaos,infusedGrainBlock,gaseousLight,nitorGas,forceField,darkQuartzSlabFull,travelSlabFull,infusedPotion],[]]};
+],
+thaumicenergistics:[
+	{hide:[[thaumicenergistics.block.essentia.vibration.chamber],[]]};
+	{hide:[[material],[2]]};
+],
+WarpTheory:[
+	{hide:[[blockVanish],[]]};
+],
+ForbiddenMagic:[
+    {keep-one:[[MobCrystal],[]]};
+	{hide:[[ArcaneCake,FMResource],[]]};
+	{hide:[[WandCaps],[1]]};
+]
+}

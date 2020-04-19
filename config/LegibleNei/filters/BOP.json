@@ -1,0 +1,8 @@
+{
+BiomesOPlenty:[
+	{hide:[[gemOre,hive,honeyBlock,poison,hell_blood,honey,jarEmpty,jarFilled,dartBlower,dart,bopBucket,swordMud,shovelMud,pickaxeMud,axeMud,hoeMud,helmetMud,chestplateMud,leggingsMud,bootsMud,scytheWood,scytheStone,scytheIron,scytheGold,scytheDiamond,scytheMud,flippers,wadingBoots,woodenDoubleSlab1,woodenDoubleSlab2,food,turnipSeeds,ancientStaff,fruitBop,stoneDoubleSlab,stoneFormations],[]]};
+	{hide:[[misc],[2,5-9]]};
+	{hide:[[gems],[1-7]]};
+	{hide:[[foliage],[8]]};
+]
+}
