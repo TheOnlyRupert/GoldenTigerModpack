@@ -1,0 +1,6 @@
+{
+witchery:[
+	{hide:[[ingredient],[46,47,49,81,107,127]]};
+	{hide:[[witchwooddoubleslab,icedoubleslab,snowdoubleslab,coffinblock,garlic],[]]};
+]
+}

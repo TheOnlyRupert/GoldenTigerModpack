@@ -1,0 +1,25 @@
+tile.ironchest:IRON.name=Iron Chest
+tile.ironchest:GOLD.name=Electrum Chest
+tile.ironchest:DIAMOND.name=Platinum Chest
+tile.ironchest:COPPER.name=Copper Chest
+tile.ironchest:SILVER.name=Invar Chest
+tile.ironchest:CRYSTAL.name=Crystal Chest
+tile.ironchest:OBSIDIAN.name=Obsidian Chest
+tile.ironchest:DIRTCHEST9000.name=Dirt Chest
+
+item.ironchest:IRONGOLD.name=DISABLED
+item.ironchest:GOLDDIAMOND.name=DISABLED
+item.ironchest:COPPERSILVER.name=DISABLED
+item.ironchest:SILVERGOLD.name=DISABLED
+item.ironchest:COPPERIRON.name=DISABLED
+item.ironchest:DIAMONDCRYSTAL.name=DISABLED
+item.ironchest:WOODIRON.name=DISABLED
+item.ironchest:WOODCOPPER.name=DISABLED
+item.ironchest:DIAMONDOBSIDIAN.name=DISABLED
+
+book.ironchest:dirtchest9000.title=NULL
+book.ironchest:dirtchest9000.page1=NULL
+book.ironchest:dirtchest9000.page2=NULL
+book.ironchest:dirtchest9000.page3=NULL
+book.ironchest:dirtchest9000.page4=NULL
+book.ironchest:dirtchest9000.page5=NULL

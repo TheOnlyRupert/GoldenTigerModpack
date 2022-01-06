@@ -1,0 +1,139 @@
+############################################################################
+# Biome IDs
+############################################################################
+Minecraft/BOP Override:			0 - 39		//Static
+BiomesOPlenty:					40 - 123
+Buildcraft:						124 - 125
+Applied Energistics:			126
+Applied Energistics:			127			//Provider ID?
+
+Minecraft:						129 - 167	//Static
+Thaumcraft:						168 - 171
+Advanced Rocketry:				172 - 180
+Twilight Forest:				181 - 199
+
+############################################################################
+# Global Entity IDs
+############################################################################
+Minecraft:						1 - 2		//Static
+COFH:							3 - 5		//Static
+Witchery:						6
+MFR:							7
+Minecraft:						8 - 22		//Static
+
+Minecraft:						40 - 66		//Static
+
+Minecraft:						90 - 100	//Static
+
+Minecraft:						120			//Static
+
+Minecraft:						200			//Static
+
+############################################################################
+# Enchantment IDs
+############################################################################
+Minecraft:						0 - 7		//Static
+Improving Minecraft:			8 - 12		//Auto
+ProjectRed:						13			//Disabled, Keep for reference
+
+Minecraft:						16 - 21		//Static
+COFH:							22 - 23
+Railcraft:						24 - 26
+BiblioCraft:					27 - 28
+Simply Jetpacks:				29
+Advanced Rocketry:				30
+Natural Absorption:				31
+Minecraft:						32 - 35		//Static
+Et Futurum:						36 - 37
+Gadomancy:						38
+OpenBlocks:						39 - 41
+Thaumcraft:						42 - 43
+Thaumic Exploration:			44 - 46
+Draconic Evolution:				47
+Minecraft:						48 - 51		//Static
+Forbidden Magic:				52 - 59
+SoulShards:						60
+Minecraft:						61 - 62		//Static
+Special Mobs:					63 - 68
+Thaumic Tinkerer:				69 - 82
+BattleGear:						83 - 89
+
+############################################################################
+# Potion IDs
+############################################################################
+Minecraft:						1 - 23		//Static
+BiomesOPlenty:					24 - 25
+Hunger Overhaul:				26			//AUTO
+Thaumcraft:						27 - 35 	//AUTO
+
+Hardcore Wither:				47
+Forbidden Magic:				48			//Not showing up
+Forbidden Magic:				49
+Thaumic Exploration:			50 - 51
+Thaumic Tinkerer:				52 - 55
+Witchery:						56 - 99
+Botania:						100 - 105
+Blood Magic:					106 - 122
+Gadomancy:						123 - 127
+
+
+############################################################################
+# Fluid IDs
+############################################################################Minecraft:						1 - 2
+Advanced Rocketry				3 - 6
+MFR:							7 - 16
+Thaumcraft:						17 - 19
+Automagy:						20 - 22
+Blood Magic:					23
+BiomesOPlenty:					24 - 26
+Forestry:						27 - 35
+Thermal Foundation:				36 - 44
+Big Reactors:					45 - 47
+Binnie's Mods:					48 - 58
+Buildcraft:						59 - 61
+Railcraft:						62
+Fission Warfare:				63 - 64
+TConstruct:						65 - 94
+OpenBlocks:						95
+Witchery:						96 - 101
+Better Questing:				102
+Extra Utilities:				103 - 104
+ProjectRed:						105 - 106
+Zetta Industries:				107
+AOBD:							108 - 110
+Thaumic Energistics:			111 - 166
+
+############################################################################
+# Villager IDs
+############################################################################
+Minecraft:						0 - 5
+Agricraft:						6
+MFR:							7
+
+RFTools:						10
+OpenBlocks:						11
+Thaumcraft:						12 - 13
+Witchery:						14
+Forbidden Magic:				15
+Forestry:						80 - 81
+
+
+############################################################################
+# Dimension IDs
+############################################################################
+NomadicTents || Tent Dimension:		-13
+Twilight Forest || "Provider":		-12
+Twilight Forest || Dimension:		-11
+Advanced Rocketry || Space:			-10
+Gadomancy || TCEldrich:				-9
+Witchery || Torment:				-8
+Witchery || Mirror:					-7
+Witchery || Dream:					-6
+Thaumic Tinkerer || Bedrock:		-5
+Thaumcraft || Outer:				-4
+Extra Utilities || Last Millennium:	-3
+Extra Utilities || Underdark:		-2
+Minecraft || Hell:					-1		//Static
+Minecraft || Surface:				0		//Static
+Minecraft || End:					1		//Static
+Advanced Rocketry || Planets:		2 - ~100

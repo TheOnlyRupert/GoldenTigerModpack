@@ -1,0 +1,26 @@
+{
+     "firestone": {
+        "template": {
+			"type": "underfluid",
+			"generator": "cluster",
+			"genFluid": "minecraft:lava"
+			},
+        "block": {
+            "name": "Railcraft:ore",
+            "metadata": 5
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 1,
+        "numClusters": 8,
+        "chunkChance": 1,
+        "minHeight": 0,
+        "maxHeight": 32,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+	 }
+}

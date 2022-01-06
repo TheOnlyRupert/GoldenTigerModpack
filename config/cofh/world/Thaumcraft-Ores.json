@@ -1,0 +1,206 @@
+{
+	"cinnabar": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": "Thaumcraft:blockCustomOre",
+		"material": "minecraft:stone",
+        "clusterSize": 1,
+        "numClusters": 6,
+        "minHeight": 16,
+        "maxHeight": 48,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			0
+        ]
+    },
+	"infusedAir": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 1
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+                "type": "dictionary",
+                "entry": "PLAINS"
+            }
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			0
+        ]
+    },
+	"infusedFire": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 2
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+                "type": "dictionary",
+                "entry": "SANDY"
+            }
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			0
+        ]
+    },
+	"infusedWater": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 3
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+                "type": "dictionary",
+                "entry": "WATER"
+            }
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			0
+        ]
+    },
+	"infusedEarth": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 4
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+                "type": "dictionary",
+                "entry": "FOREST"
+            }
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			0
+        ]
+    },
+	"infusedOrder": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 5
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+                "type": "dictionary",
+                "entry": "MOUNTAIN"
+            }
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			0
+        ]
+    },
+	"infusedEntropy": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 6
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+                "type": "dictionary",
+                "entry": "SNOWY"
+            }
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			0
+        ]
+    },
+	"amber": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 7
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 1,
+        "numClusters": 6,
+        "minHeight": 64,
+        "maxHeight": 224,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			0
+        ]
+    },
+	"shadow": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": "TaintedMagic:BlockShadowOre",
+		"material": "minecraft:bedrock",
+        "clusterSize": 1,
+        "numClusters": 4,
+        "minHeight": 0,
+        "maxHeight": 5,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			0
+        ]
+    }
+}

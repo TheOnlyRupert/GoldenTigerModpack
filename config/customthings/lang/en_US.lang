@@ -1,0 +1,18 @@
+#blocks
+tile.customthings.oreRekt.name=Rekt Ore
+
+#items
+item.cash001.name=($1) One Dollar Bill
+item.cash005.name=($5) Five Dollar Bill
+item.cash010.name=($10) Ten Dollar Bill
+item.cash020.name=($20) Twenty Dollar Bill
+item.cash050.name=($50) Fifty Dollar Bill
+item.cash100.name=($100) One Hundred Dollar Bill
+item.packUpgrade1.name=Satchel to Backpack Upgrade (Tier 1)
+item.packUpgrade2.name=Satchel to Backpack Upgrade (Tier 2)
+item.packUpgrade3.name=Satchel to Backpack Upgrade (Tier 3)
+item.packUpgrade4.name=Satchel to Backpack Upgrade (Tier 4)
+item.token1.name=Token (Tent)
+item.token2.name=Token (Generator)
+item.token3.name=Token (null)
+item.token4.name=Token (null)

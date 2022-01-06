@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LootGroups>
+	<LootGroup GroupMetaID="0" GroupName="Junk" Rarity="0" MinItems="2" MaxItems="5" CombineTrashGroup="false">
+		<Loot Identifier="00000000-0000-0000-0000-000000000000" ItemName="minecraft:experience_bottle" Amount="16" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000001" ItemName="minecraft:leather_leggings" Amount="1" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000002" ItemName="minecraft:lever" Amount="6" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000003" ItemName="minecraft:string" Amount="8" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000004" ItemName="minecraft:arrow" Amount="16" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000005" ItemName="minecraft:bow" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000006" ItemName="minecraft:fish:2" Amount="1" NBTTag="{display:{Name:&quot;Nemo&quot;,Lore:[0:&quot;Looks like you found him&quot;]}}" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000007" ItemName="minecraft:ender_pearl" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000008" ItemName="minecraft:heavy_weighted_pressure_plate" Amount="1" NBTTag="" Chance="15" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000009" ItemName="minecraft:cactus" Amount="1" NBTTag="" Chance="15" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000010" ItemName="minecraft:leather_helmet" Amount="1" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000011" ItemName="minecraft:apple" Amount="8" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000012" ItemName="minecraft:coal" Amount="8" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000013" ItemName="minecraft:rail" Amount="8" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000014" ItemName="minecraft:sugar" Amount="16" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000015" ItemName="minecraft:torch" Amount="32" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000016" ItemName="minecraft:sapling:5" Amount="1" NBTTag="" Chance="12" ItemGroup="saplings_normal" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000017" ItemName="minecraft:paper" Amount="1" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000018" ItemName="minecraft:sapling:2" Amount="1" NBTTag="" Chance="12" ItemGroup="saplings_normal" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000019" ItemName="TConstruct:heartCanister:2" Amount="1" NBTTag="" Chance="5" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000020" ItemName="minecraft:melon" Amount="8" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000021" ItemName="minecraft:redstone_torch" Amount="16" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000022" ItemName="minecraft:wheat" Amount="8" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000023" ItemName="minecraft:sapling:3" Amount="1" NBTTag="" Chance="12" ItemGroup="saplings_normal" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000024" ItemName="minecraft:sapling:4" Amount="1" NBTTag="" Chance="12" ItemGroup="saplings_normal" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000025" ItemName="TConstruct:slime.sapling" Amount="1" NBTTag="" Chance="14" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000026" ItemName="minecraft:diamond" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000027" ItemName="minecraft:leather_boots" Amount="1" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000028" ItemName="IguanaTweaksTConstruct:clayBucketFired" Amount="4" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000029" ItemName="minecraft:stone_pressure_plate" Amount="4" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000030" ItemName="minecraft:feather" Amount="16" NBTTag="" Chance="22" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000031" ItemName="minecraft:mushroom_stew" Amount="4" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000032" ItemName="minecraft:bucket" Amount="1" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000033" ItemName="minecraft:sapling" Amount="1" NBTTag="" Chance="12" ItemGroup="saplings_normal" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000034" ItemName="minecraft:leather" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000035" ItemName="minecraft:dye:15" Amount="8" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000036" ItemName="minecraft:bone" Amount="8" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000037" ItemName="minecraft:coal:1" Amount="8" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000038" ItemName="minecraft:baked_potato" Amount="16" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000039" ItemName="minecraft:light_weighted_pressure_plate" Amount="1" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000040" ItemName="minecraft:redstone_block" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000041" ItemName="minecraft:slime_ball" Amount="8" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000042" ItemName="minecraft:golden_apple" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000043" ItemName="minecraft:golden_apple:1" Amount="1" NBTTag="" Chance="1" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000044" ItemName="minecraft:glowstone_dust" Amount="4" NBTTag="" Chance="8" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000045" ItemName="minecraft:sapling:1" Amount="1" NBTTag="" Chance="12" ItemGroup="saplings_normal" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000046" ItemName="minecraft:chest" Amount="4" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000047" ItemName="minecraft:wooden_pressure_plate" Amount="4" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000048" ItemName="minecraft:gunpowder" Amount="4" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000049" ItemName="minecraft:spider_eye" Amount="4" NBTTag="" Chance="6" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000050" ItemName="minecraft:bowl" Amount="8" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000051" ItemName="minecraft:emerald" Amount="2" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000052" ItemName="minecraft:sponge" Amount="1" NBTTag="" Chance="15" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000053" ItemName="minecraft:book" Amount="1" NBTTag="" Chance="15" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000054" ItemName="TConstruct:materials:8" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000055" ItemName="minecraft:obsidian" Amount="10" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000056" ItemName="minecraft:iron_bars" Amount="4" NBTTag="" Chance="25" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000057" ItemName="minecraft:ladder" Amount="16" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000058" ItemName="BiomesOPlenty:colorizedSaplings" Amount="1" NBTTag="" Chance="10" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000059" ItemName="minecraft:map" Amount="1" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000060" ItemName="Forestry:beeswax" Amount="1" NBTTag="" Chance="16" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000061" ItemName="minecraft:leather_chestplate" Amount="1" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000062" ItemName="minecraft:bread" Amount="4" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000063" ItemName="minecraft:cooked_chicken" Amount="16" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000064" ItemName="minecraft:cooked_beef" Amount="16" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000065" ItemName="minecraft:cooked_porkchop" Amount="16" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000066" ItemName="minecraft:egg" Amount="16" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000067" ItemName="harvestcraft:applepieItem" Amount="2" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000068" ItemName="harvestcraft:pbandjItem" Amount="2" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000069" ItemName="BiomesOPlenty:saplings:0" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000070" ItemName="BiomesOPlenty:saplings:2" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000071" ItemName="BiomesOPlenty:saplings:10" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000072" ItemName="BiomesOPlenty:saplings:12" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000073" ItemName="BiomesOPlenty:colorizedSaplings:3" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000074" ItemName="minecraft:stone_button" Amount="4" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000075" ItemName="minecraft:snowball" Amount="16" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000076" ItemName="minecraft:pumpkin" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000077" ItemName="minecraft:ice" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="00000000-0000-0000-0000-000000000078" ItemName="minecraft:name_tag" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="1" GroupName="Stone Age" Rarity="0" MinItems="2" MaxItems="4" CombineTrashGroup="false">
+		<Loot Identifier="01000000-0000-0000-0000-000000000000" ItemName="minecraft:potato" Amount="8" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000001" ItemName="harvestcraft:bananamilkshakeItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000002" ItemName="TConstruct:jerky" Amount="16" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000003" ItemName="harvestcraft:beetsaladItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000004" ItemName="harvestcraft:batteredsausageItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000005" ItemName="minecraft:poisonous_potato" Amount="8" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000006" ItemName="harvestcraft:cashewbutterItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000007" ItemName="harvestcraft:celeryandpeanutbutterItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000008" ItemName="harvestcraft:chocolatemilkshakeItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000009" ItemName="harvestcraft:cinnamonsugardonutItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000010" ItemName="harvestcraft:damperItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000011" ItemName="harvestcraft:fairybreadItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000012" ItemName="harvestcraft:gingeredrhubarbtartItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000013" ItemName="harvestcraft:gooseberryyogurtItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000014" ItemName="harvestcraft:cucumbersoupItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000015" ItemName="minecraft:clay_ball" Amount="16" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000016" ItemName="minecraft:reeds" Amount="16" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000017" ItemName="minecraft:carrot" Amount="16" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000018" ItemName="minecraft:golden_carrot" Amount="1" NBTTag="" Chance="30" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000019" ItemName="harvestcraft:vindalooItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000020" ItemName="harvestcraft:asparagussoupItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000021" ItemName="harvestcraft:hotwingsItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000022" ItemName="harvestcraft:jamrollItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000023" ItemName="harvestcraft:kimchiItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000024" ItemName="harvestcraft:onionsoupItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000025" ItemName="harvestcraft:splitpeasoupItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000026" ItemName="harvestcraft:stuffedpepperItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000027" ItemName="harvestcraft:summerradishsaladItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000028" ItemName="harvestcraft:sunflowerbroccolisaladItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000029" ItemName="harvestcraft:sweetpotatosouffleItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000030" ItemName="harvestcraft:vegetarianlettucewrapItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000031" ItemName="harvestcraft:veggiestripsItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000032" ItemName="harvestcraft:wafflesItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000033" ItemName="harvestcraft:walnutraisinbreadItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000034" ItemName="harvestcraft:zeppoleItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000035" ItemName="harvestcraft:pumpkinoatsconesItem" Amount="6" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000036" ItemName="IronChest:BlockIronChest:3" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000037" ItemName="minecraft:chest" Amount="8" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000038" ItemName="minecraft:flint" Amount="32" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000039" ItemName="minecraft:log" Amount="64" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000040" ItemName="minecraft:potion:8205" Amount="1" NBTTag="" Chance="20" LimitedDropCount="4" RandomAmount="false" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000041" ItemName="minecraft:potion:8198" Amount="1" NBTTag="" Chance="20" LimitedDropCount="4" RandomAmount="false" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000042" ItemName="ProjRed|Core:projectred.core.part" Amount="32" NBTTag="" Chance="50" LimitedDropCount="4" RandomAmount="false" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000043" ItemName="minecraft:redstone_lamp" Amount="3" NBTTag="" Chance="50" LimitedDropCount="4" RandomAmount="false" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000044" ItemName="Forestry:peat" Amount="16" NBTTag="" Chance="50" LimitedDropCount="4" RandomAmount="false" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000045" ItemName="Forestry:bituminousPeat" Amount="8" NBTTag="" Chance="20" LimitedDropCount="4" RandomAmount="false" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000046" ItemName="MineFactoryReloaded:rubberwood.sapling" Amount="1" NBTTag="" Chance="40" LimitedDropCount="4" RandomAmount="false" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000047" ItemName="minecraft:name_tag" Amount="1" NBTTag="" Chance="20" LimitedDropCount="4" RandomAmount="false" />
+		<Loot Identifier="01000000-0000-0000-0000-000000000048" ItemName="minecraft:furnace" Amount="1" NBTTag="" Chance="50" LimitedDropCount="4" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="2" GroupName="Bronze Age" Rarity="0" MinItems="2" MaxItems="3" CombineTrashGroup="false">
+		<Loot Identifier="02000000-0000-0000-0000-000000000000" ItemName="minecraft:sticky_piston" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000001" ItemName="minecraft:piston" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000002" ItemName="minecraft:brick_block" Amount="8" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000003" ItemName="minecraft:iron_ingot" Amount="16" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000004" ItemName="minecraft:furnace" Amount="6" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000005" ItemName="Railcraft:machine.beta:11" Amount="1" NBTTag="" Chance="25" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000006" ItemName="harvestcraft:delightedmealItem" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000007" ItemName="harvestcraft:heartybreakfastItem" Amount="4" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000008" ItemName="harvestcraft:rainbowcurryItem" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000009" ItemName="harvestcraft:supremepizzaItem" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000010" ItemName="harvestcraft:sausageinbreadItem" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000011" ItemName="harvestcraft:beefwellingtonItem" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000012" ItemName="harvestcraft:meatfeastpizzaItem" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000013" ItemName="harvestcraft:epicbaconItem" Amount="4" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000014" ItemName="IronChest:BlockIronChest" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000015" ItemName="Railcraft:machine.beta:7" Amount="1" NBTTag="" Chance="50" LimitedDropCount="4" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000016" ItemName="minecraft:chainmail_helmet" Amount="1" NBTTag="{ench:[0:{lvl:3s,id:0s},1:{lvl:3s,id:34s},2:{lvl:2s,id:6s}],RepairCost:2,display:{Name:&quot;Rupert's Chain Helmet&quot;,Lore:[0:&quot;I knew he was cheating&quot;]}}" Chance="10" ItemGroup="chainarmor" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000017" ItemName="minecraft:chainmail_chestplate" Amount="1" NBTTag="{ench:[0:{lvl:3s,id:0s},1:{lvl:3s,id:34s}],RepairCost:2,display:{Name:&quot;Rupert's Chain Chestplate&quot;,Lore:[0:&quot;I knew he was cheating&quot;]}}" Chance="10" ItemGroup="chainarmor" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000018" ItemName="minecraft:chainmail_leggings" Amount="1" NBTTag="{ench:[0:{lvl:3s,id:0s},1:{lvl:3s,id:34s}],RepairCost:2,display:{Name:&quot;Rupert's Chain Leggings&quot;,Lore:[0:&quot;I knew he was cheating&quot;]}}" Chance="10" ItemGroup="chainarmor" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000019" ItemName="minecraft:chainmail_boots" Amount="1" NBTTag="{ench:[0:{lvl:3s,id:0s},1:{lvl:2s,id:2s},2:{lvl:3s,id:34s}],RepairCost:2,display:{Name:&quot;Rupert's Chain Boots&quot;,Lore:[0:&quot;I knew he was cheating&quot;]}}" Chance="10" ItemGroup="chainarmor" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000020" ItemName="minecraft:water_bucket" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000021" ItemName="Railcraft:fuel.coke" Amount="32" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000022" ItemName="minecraft:torch" Amount="128" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000023" ItemName="minecraft:hopper" Amount="4" NBTTag="" Chance="30" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000024" ItemName="harvestcraft:jellybeansItem" Amount="2" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000025" ItemName="harvestcraft:hushpuppiesItem" Amount="4" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000026" ItemName="harvestcraft:shrimpokrahushpuppiesItem" Amount="4" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000027" ItemName="TConstruct:SpeedBlock" Amount="32" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000028" ItemName="minecraft:potion:8262" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000029" ItemName="minecraft:potion:8269" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000030" ItemName="minecraft:potion:8193" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000031" ItemName="minecraft:potion:8194" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000032" ItemName="minecraft:potion:8195" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000033" ItemName="minecraft:potion:8201" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="02000000-0000-0000-0000-000000000034" ItemName="minecraft:potion:8206" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="3" GroupName="Steel Age" Rarity="0" MinItems="2" MaxItems="3" CombineTrashGroup="false">
+		<Loot Identifier="03000000-0000-0000-0000-000000000000" ItemName="StevesCarts:ModuleComponents:9" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000001" ItemName="Forestry:apiculture" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000002" ItemName="BuildCraft|Factory:tankBlock" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000003" ItemName="minecraft:writable_book" Amount="4" NBTTag="" Chance="85" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000004" ItemName="minecraft:book" Amount="8" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000005" ItemName="IronChest:BlockIronChest:4" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000006" ItemName="minecraft:glass" Amount="64" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000007" ItemName="minecraft:hopper" Amount="5" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000008" ItemName="minecraft:rail" Amount="64" NBTTag="" Chance="85" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000009" ItemName="minecraft:golden_rail" Amount="64" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000010" ItemName="OpenBlocks:fan" Amount="1" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000011" ItemName="OpenBlocks:generic" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000012" ItemName="minecraft:coal" Amount="64" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000013" ItemName="Ztones:lampf" Amount="64" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000014" ItemName="harvestcraft:pizzaItem" Amount="2" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000015" ItemName="harvestcraft:supremepizzaItem" Amount="2" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000016" ItemName="harvestcraft:meatfeastpizzaItem" Amount="2" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000017" ItemName="harvestcraft:hamburgerItem" Amount="2" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000018" ItemName="harvestcraft:cheeseburgerItem" Amount="2" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000019" ItemName="harvestcraft:baconcheeseburgerItem" Amount="2" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000020" ItemName="harvestcraft:deluxecheeseburgerItem" Amount="2" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000021" ItemName="harvestcraft:baconmushroomburgerItem" Amount="2" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000022" ItemName="harvestcraft:beetburgerItem" Amount="2" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000023" ItemName="harvestcraft:onionhamburgerItem" Amount="2" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000024" ItemName="harvestcraft:coleslawburgerItem" Amount="2" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000025" ItemName="Forestry:ffarm" Amount="8" NBTTag="{FarmBlock:0}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000026" ItemName="Forestry:ffarm:2" Amount="1" NBTTag="{FarmBlock:0}" Chance="25" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000027" ItemName="Forestry:ffarm:3" Amount="1" NBTTag="{FarmBlock:0}" Chance="25" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000028" ItemName="Forestry:ffarm:4" Amount="1" NBTTag="{FarmBlock:0}" Chance="25" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000029" ItemName="Forestry:ffarm:5" Amount="1" NBTTag="{FarmBlock:0}" Chance="25" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000030" ItemName="minecraft:potion:8257" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000031" ItemName="minecraft:potion:8258" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000032" ItemName="minecraft:potion:8259" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="03000000-0000-0000-0000-000000000033" ItemName="minecraft:potion:8265" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="4" GroupName="Electric Age - Normal" Rarity="0" MinItems="2" MaxItems="4" CombineTrashGroup="false">
+		<Loot Identifier="04000000-0000-0000-0000-000000000000" ItemName="OpenComputers:item:18" Amount="3" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000001" ItemName="Forestry:engine:2" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000002" ItemName="Forestry:engine:1" Amount="2" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000003" ItemName="Forestry:chipsets:0" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000004" ItemName="Forestry:chipsets:1" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000005" ItemName="Forestry:engine:1" Amount="2" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000006" ItemName="BuildCraft|Core:engineBlock:2" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000007" ItemName="BuildCraft|Core:engineBlock:1" Amount="2" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000008" ItemName="ThermalExpansion:augment:256" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000009" ItemName="ThermalExpansion:augment:312" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000010" ItemName="RedstoneArsenal:material:96" Amount="3" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000012" ItemName="simplyjetpacks:components:60" Amount="2" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000013" ItemName="ThermalExpansion:material:3" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000014" ItemName="ThermalExpansion:material" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000015" ItemName="BuildCraft|Silicon:laserTableBlock" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000016" ItemName="ThermalExpansion:Frame" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000017" ItemName="ThermalExpansion:Frame:5" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000018" ItemName="ThermalExpansion:material:1" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000019" ItemName="ThermalExpansion:augment:128" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000020" ItemName="ThermalExpansion:augment:112" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000021" ItemName="ThermalExpansion:augment:80" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000022" ItemName="ThermalExpansion:augment:64" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000023" ItemName="ThermalExpansion:augment:48" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000024" ItemName="ThermalExpansion:augment:16" Amount="3" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000025" ItemName="ThermalExpansion:augment" Amount="2" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000026" ItemName="ThermalExpansion:material:2" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000027" ItemName="ThermalExpansion:capacitor:2" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000028" ItemName="MineFactoryReloaded:plastic.sheet" Amount="16" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000029" ItemName="ThermalExpansion:Frame:4" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000030" ItemName="ThermalExpansion:Frame:2" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000031" ItemName="ThermalExpansion:Frame:1" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000032" ItemName="ExtraUtilities:generator:1" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000033" ItemName="ExtraUtilities:generator" Amount="2" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000034" ItemName="Railcraft:machine.beta:7" Amount="2" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000035" ItemName="BuildCraft|Silicon:laserBlock" Amount="2" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000036" ItemName="MineFactoryReloaded:upgrade.radius" Amount="2" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000037" ItemName="MineFactoryReloaded:upgrade.radius:3" Amount="2" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000038" ItemName="BuildCraft|Factory:pumpBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000039" ItemName="BuildCraft|Factory:miningWellBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000040" ItemName="Forestry:factory2" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000041" ItemName="ThermalExpansion:Machine:10" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000042" ItemName="ThermalExpansion:Machine:11" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000043" ItemName="ThermalExpansion:Device:4" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000044" ItemName="ThermalExpansion:Device:5" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000045" ItemName="ThermalExpansion:Device:6" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000046" ItemName="zettaindustries:rfmeterblock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000047" ItemName="Forestry:factory:2" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000048" ItemName="Forestry:factory:3" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000049" ItemName="Forestry:factory:4" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000050" ItemName="Forestry:factory:5" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000051" ItemName="ThermalExpansion:Machine:9" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000052" ItemName="ThermalExpansion:Machine:8" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000053" ItemName="ThermalExpansion:Machine:7" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000054" ItemName="ThermalExpansion:Machine:6" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000055" ItemName="ThermalExpansion:Machine:5" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000056" ItemName="ThermalExpansion:Machine:4" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000057" ItemName="ThermalExpansion:Machine:3" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000058" ItemName="ThermalExpansion:Machine:2" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000059" ItemName="ThermalExpansion:Machine:1" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000060" ItemName="ThermalExpansion:Machine" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000061" ItemName="rftools:securityManagerBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000062" ItemName="rftools:blockProtectorBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000063" ItemName="rftools:builderBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000064" ItemName="rftools:shieldBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000065" ItemName="rftools:screenControllerBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000066" ItemName="rftools:itemFilterBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000067" ItemName="rftools:relayBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000068" ItemName="rftools:crafterBlock1" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000069" ItemName="rftools:liquidMonitorBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000070" ItemName="rftools:rfMonitorBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000071" ItemName="Railcraft:machine.alpha:8" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000072" ItemName="BuildCraft|Builders:libraryBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000073" ItemName="BuildCraft|Factory:floodGateBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000074" ItemName="MineFactoryReloaded:machine.1:5" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000075" ItemName="MineFactoryReloaded:machine.1:7" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000076" ItemName="MineFactoryReloaded:machine.2:3" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000077" ItemName="MineFactoryReloaded:machine.2:4" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000078" ItemName="MineFactoryReloaded:machine.2:7" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000079" ItemName="MineFactoryReloaded:machine.2:11" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000080" ItemName="MineFactoryReloaded:machine.2:12" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000081" ItemName="Forestry:factory" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000082" ItemName="Forestry:factory:1" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000083" ItemName="MineFactoryReloaded:machine.2:8" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000084" ItemName="MineFactoryReloaded:machine.2:6" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000085" ItemName="MineFactoryReloaded:machine.0" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000086" ItemName="MineFactoryReloaded:machine.0:1" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000087" ItemName="MineFactoryReloaded:machine.0:2" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000088" ItemName="MineFactoryReloaded:machine.0:3" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000089" ItemName="MineFactoryReloaded:machine.0:4" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000090" ItemName="MineFactoryReloaded:machine.0:5" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000091" ItemName="MineFactoryReloaded:machine.0:8" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000092" ItemName="MineFactoryReloaded:machine.0:9" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000093" ItemName="MineFactoryReloaded:machine.0:10" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000094" ItemName="MineFactoryReloaded:machine.0:11" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="04000000-0000-0000-0000-000000000095" ItemName="MineFactoryReloaded:machine.1:4" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="5" GroupName="Electric Age - Greater" Rarity="0" MinItems="2" MaxItems="4" CombineTrashGroup="false">
+		<Loot Identifier="05000000-0000-0000-0000-000000000000" ItemName="BuildCraft|Silicon:laserBlock" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000001" ItemName="Forestry:chipsets:2" Amount="4" NBTTag="{T: 2 as short}" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000002" ItemName="Forestry:chipsets:3" Amount="4" NBTTag="{T: 3 as short}" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000003" ItemName="ThermalExpansion:Frame:6" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000004" ItemName="ThermalExpansion:Frame:7" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000005" ItemName="ThermalExpansion:Glass" Amount="6" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000006" ItemName="ThermalExpansion:capacitor:3" Amount="1" NBTTag="{Energy: 0}" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000007" ItemName="ThermalExpansion:capacitor:4" Amount="1" NBTTag="{Energy: 0}" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000008" ItemName="ThermalExpansion:material:3" Amount="6" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000009" ItemName="ThermalExpansion:material:2" Amount="6" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000010" ItemName="ThermalExpansion:material:1" Amount="6" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000011" ItemName="ThermalExpansion:augment:65" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000012" ItemName="ThermalExpansion:augment:49" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000013" ItemName="ThermalExpansion:augment:81" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000014" ItemName="ThermalExpansion:augment:113" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000015" ItemName="ThermalExpansion:augment:129" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000016" ItemName="ThermalExpansion:augment:313" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000018" ItemName="Railcraft:machine.epsilon:4" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000019" ItemName="simplyjetpacks:components:62" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000020" ItemName="ExtraUtilities:enderQuarryUpgrade" Amount="5" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000021" ItemName="BuildCraft|Factory:refineryBlock" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000022" ItemName="ExtraUtilities:generator:5" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000023" ItemName="ExtraUtilities:nodeUpgrade" Amount="8" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000024" ItemName="Forestry:sturdyMachine" Amount="2" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000025" ItemName="Forestry:hardenedMachine" Amount="2" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000026" ItemName="Railcraft:machine.beta:8" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000027" ItemName="MineFactoryReloaded:upgrade.radius:7" Amount="2" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000028" ItemName="MineFactoryReloaded:machine.0:15" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000029" ItemName="MineFactoryReloaded:machine.1:12" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000030" ItemName="MineFactoryReloaded:machine.1:13" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000031" ItemName="MineFactoryReloaded:machine.1:14" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000032" ItemName="MineFactoryReloaded:machine.2:2" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000033" ItemName="MineFactoryReloaded:machine.2:5" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000034" ItemName="BuildCraft|Builders:machineBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000035" ItemName="BuildCraft|Builders:fillerBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000036" ItemName="BuildCraft|Builders:builderBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000037" ItemName="Railcraft:machine.alpha:1" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000038" ItemName="Railcraft:machine.alpha:3" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000039" ItemName="Railcraft:machine.alpha:11" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000040" ItemName="Railcraft:machine.alpha:15" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000041" ItemName="rftools:crafterBlock2" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000042" ItemName="rftools:storageScannerBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000043" ItemName="rftools:matterBeamerBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000044" ItemName="rftools:matterTransmitterBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000045" ItemName="rftools:matterReceiverBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000046" ItemName="rftools:dialingDeviceBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000047" ItemName="rftools:destinationAnalyzerBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000048" ItemName="rftools:matterBoosterBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000049" ItemName="rftools:endergenicBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000050" ItemName="rftools:pearlInjectorBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000051" ItemName="rftools:shieldBlock2" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000052" ItemName="ThermalExpansion:Device:2" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000053" ItemName="ThermalExpansion:Device:3" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="05000000-0000-0000-0000-000000000054" ItemName="MineFactoryReloaded:machine.0:12" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="6" GroupName="Electric Age - Legendary" Rarity="0" MinItems="2" MaxItems="3" CombineTrashGroup="false">
+		<Loot Identifier="06000000-0000-0000-0000-000000000000" ItemName="MineFactoryReloaded:machine.0:14" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="06000000-0000-0000-0000-000000000001" ItemName="MineFactoryReloaded:machine.1:3" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="06000000-0000-0000-0000-000000000002" ItemName="MineFactoryReloaded:machine.1:9" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="06000000-0000-0000-0000-000000000003" ItemName="rftools:crafterBlock3" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="06000000-0000-0000-0000-000000000004" ItemName="rftools:machineInfuserBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="06000000-0000-0000-0000-000000000005" ItemName="rftools:spawnerBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="06000000-0000-0000-0000-000000000006" ItemName="rftools:activityProbeBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="06000000-0000-0000-0000-000000000007" ItemName="rftools:energyExtractorBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="06000000-0000-0000-0000-000000000008" ItemName="rftools:shieldBlock3" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="06000000-0000-0000-0000-000000000009" ItemName="rftools:environmentalControllerBlock" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="06000000-0000-0000-0000-000000000010" ItemName="MineFactoryReloaded:machine.0:7" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="06000000-0000-0000-0000-000000000011" ItemName="MineFactoryReloaded:machine.0:13" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="7" GroupName="Living - Neutral" Rarity="0" MinItems="1" MaxItems="4" CombineTrashGroup="false">
+		<Loot Identifier="07000000-0000-0000-0000-000000000000" ItemName="minecraft:spawn_egg:90" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="07000000-0000-0000-0000-000000000001" ItemName="etfuturum:entity_egg:3" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="07000000-0000-0000-0000-000000000002" ItemName="minecraft:spawn_egg:65" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="07000000-0000-0000-0000-000000000003" ItemName="minecraft:spawn_egg:91" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="07000000-0000-0000-0000-000000000004" ItemName="minecraft:spawn_egg:93" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="07000000-0000-0000-0000-000000000005" ItemName="minecraft:spawn_egg:92" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="07000000-0000-0000-0000-000000000006" ItemName="minecraft:spawn_egg:95" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="07000000-0000-0000-0000-000000000007" ItemName="minecraft:spawn_egg:94" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="07000000-0000-0000-0000-000000000008" ItemName="minecraft:spawn_egg:96" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="07000000-0000-0000-0000-000000000009" ItemName="minecraft:spawn_egg:98" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="07000000-0000-0000-0000-000000000010" ItemName="minecraft:spawn_egg:120" Amount="1" NBTTag="" Chance="2" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="07000000-0000-0000-0000-000000000011" ItemName="minecraft:spawn_egg:100" Amount="1" NBTTag="" Chance="2" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="8" GroupName="Living - Hostile" Rarity="0" MinItems="1" MaxItems="4" CombineTrashGroup="false">
+		<Loot Identifier="08000000-0000-0000-0000-000000000000" ItemName="minecraft:spawn_egg:55" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000001" ItemName="minecraft:spawn_egg:58" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000002" ItemName="minecraft:spawn_egg:59" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000003" ItemName="minecraft:spawn_egg:60" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000004" ItemName="minecraft:spawn_egg:62" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000005" ItemName="minecraft:spawn_egg:301" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000006" ItemName="minecraft:spawn_egg:50" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000007" ItemName="minecraft:spawn_egg:51" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000008" ItemName="minecraft:spawn_egg:52" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000009" ItemName="minecraft:spawn_egg:61" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000010" ItemName="minecraft:spawn_egg:66" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000011" ItemName="minecraft:spawn_egg:54" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000012" ItemName="minecraft:spawn_egg:57" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000013" ItemName="Thaumcraft:ItemSpawnerEgg" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000014" ItemName="TConstruct:titleIcon" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000015" ItemName="minecraft:spawn_egg:4" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000016" ItemName="minecraft:spawn_egg:29" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000017" ItemName="minecraft:spawn_egg:30" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000018" ItemName="minecraft:spawn_egg:31" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000019" ItemName="Thaumcraft:ItemSpawnerEgg:2" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000020" ItemName="etfuturum:entity_egg:1" Amount="1" NBTTag="" Chance="5" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000021" ItemName="minecraft:spawn_egg:5" Amount="1" NBTTag="" Chance="2" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000022" ItemName="minecraft:spawn_egg:56" Amount="1" NBTTag="" Chance="2" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="08000000-0000-0000-0000-000000000023" ItemName="Thaumcraft:ItemSpawnerEgg:1" Amount="1" NBTTag="" Chance="2" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="9" GroupName="Transportation - Normal" Rarity="0" MinItems="2" MaxItems="4" CombineTrashGroup="false">
+		<Loot Identifier="09000000-0000-0000-0000-000000000000" ItemName="StevesCarts:CartModule:18" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="09000000-0000-0000-0000-000000000001" ItemName="StevesCarts:CartModule:44" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="09000000-0000-0000-0000-000000000002" ItemName="StevesCarts:CartModule:16" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="09000000-0000-0000-0000-000000000003" ItemName="StevesCarts:CartModule:2" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="09000000-0000-0000-0000-000000000004" ItemName="StevesCarts:CartModule:38" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="09000000-0000-0000-0000-000000000005" ItemName="StevesCarts:CartModule:14" Amount="1" NBTTag="{Data:100b}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="09000000-0000-0000-0000-000000000006" ItemName="StevesCarts:CartModule:15" Amount="1" NBTTag="{Data:100b}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="09000000-0000-0000-0000-000000000007" ItemName="StevesCarts:CartModule:4" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="09000000-0000-0000-0000-000000000008" ItemName="StevesCarts:CartModule:45" Amount="1" NBTTag="" Chance="34" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="09000000-0000-0000-0000-000000000009" ItemName="StevesCarts:CartModule:37" Amount="1" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="09000000-0000-0000-0000-000000000010" ItemName="StevesCarts:CartModule:42" Amount="1" NBTTag="{Data:100b}" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="09000000-0000-0000-0000-000000000011" ItemName="StevesCarts:CartModule:3" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="09000000-0000-0000-0000-000000000012" ItemName="StevesCarts:CartModule:2" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="09000000-0000-0000-0000-000000000013" ItemName="StevesCarts:CartModule:5" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="09000000-0000-0000-0000-000000000014" ItemName="StevesCarts:ModuleComponents:9" Amount="2" NBTTag="" Chance="25" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="09000000-0000-0000-0000-000000000015" ItemName="StevesCarts:ModuleComponents:16" Amount="2" NBTTag="" Chance="15" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="10" GroupName="Transportation - Greater" Rarity="0" MinItems="2" MaxItems="4" CombineTrashGroup="false">
+		<Loot Identifier="10000000-0000-0000-0000-000000000000" ItemName="minecraft:stick" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="11" GroupName="Transportation - Legendary" Rarity="0" MinItems="2" MaxItems="4" CombineTrashGroup="false">
+		<Loot Identifier="11000000-0000-0000-0000-000000000000" ItemName="minecraft:stick" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="12" GroupName="Magical - Novice" Rarity="0" MinItems="3" MaxItems="4" CombineTrashGroup="false">
+		<Loot Identifier="12000000-0000-0000-0000-000000000000" ItemName="ForbiddenMagic:UmbralBush" Amount="1" NBTTag="" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000001" ItemName="Thaumcraft:ItemShard" Amount="8" NBTTag="" Chance="25" ItemGroup="basicshards" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000002" ItemName="Thaumcraft:ItemShard:1" Amount="8" NBTTag="" Chance="25" ItemGroup="basicshards" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000003" ItemName="Thaumcraft:ItemShard:2" Amount="8" NBTTag="" Chance="25" ItemGroup="basicshards" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000004" ItemName="Thaumcraft:ItemShard:3" Amount="8" NBTTag="" Chance="25" ItemGroup="basicshards" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000005" ItemName="Thaumcraft:ItemShard:4" Amount="8" NBTTag="" Chance="25" ItemGroup="basicshards" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000006" ItemName="Thaumcraft:ItemShard:5" Amount="8" NBTTag="" Chance="25" ItemGroup="basicshards" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000007" ItemName="Thaumcraft:blockCosmeticSolid:6" Amount="8" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000008" ItemName="MagicBees:wax" Amount="64" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000009" ItemName="Thaumcraft:ItemResource:11" Amount="2" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000010" ItemName="Thaumcraft:ItemResource:1" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000011" ItemName="Thaumcraft:ItemResource" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000012" ItemName="Thaumcraft:blockJar" Amount="4" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000013" ItemName="Thaumcraft:ItemResource:7" Amount="4" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000014" ItemName="WarpTheory:item.warptheory.paper" Amount="16" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000015" ItemName="Thaumcraft:ItemResource:13" Amount="12" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000016" ItemName="Thaumcraft:ItemResource:3" Amount="8" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000017" ItemName="Thaumcraft:ItemResource:4" Amount="16" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000018" ItemName="Thaumcraft:ItemResource:9" Amount="3" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000019" ItemName="Thaumcraft:blockLifter" Amount="1" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000020" ItemName="Thaumcraft:blockCandle" Amount="16" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000021" ItemName="Thaumcraft:ItemEssence" Amount="16" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000022" ItemName="Thaumcraft:blockChestHungry" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000023" ItemName="Thaumcraft:blockMetalDevice:7" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000025" ItemName="Thaumcraft:blockTube:6" Amount="8" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000026" ItemName="Thaumcraft:blockTube:5" Amount="8" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000027" ItemName="Thaumcraft:blockTube:3" Amount="8" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000028" ItemName="Thaumcraft:blockTube" Amount="8" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000029" ItemName="Thaumcraft:ItemThaumometer" Amount="1" NBTTag="" Chance="30" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000030" ItemName="AWWayofTime:crystallos" Amount="4" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000031" ItemName="AWWayofTime:aether" Amount="4" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000032" ItemName="AWWayofTime:crepitous" Amount="4" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000033" ItemName="AWWayofTime:incendium" Amount="4" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000034" ItemName="AWWayofTime:magicales" Amount="4" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000035" ItemName="AWWayofTime:aquasalus" Amount="4" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000036" ItemName="AWWayofTime:sanctus" Amount="4" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000037" ItemName="AWWayofTime:tennebrae" Amount="4" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000038" ItemName="AWWayofTime:terrae" Amount="4" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000039" ItemName="AWWayofTime:bloodMagicBaseAlchemyItems:3" Amount="16" NBTTag="" Chance="30" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000040" ItemName="AWWayofTime:alchemyFlask" Amount="4" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000041" ItemName="AWWayofTime:averageLengtheningCatalyst" Amount="4" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000042" ItemName="AWWayofTime:averagePowerCatalyst" Amount="4" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000043" ItemName="AWWayofTime:blockAlchemicCalcinator" Amount="1" NBTTag="" Chance="65" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000044" ItemName="AWWayofTime:bloodMagicBaseAlchemyItems:5" Amount="1" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000045" ItemName="AWWayofTime:simpleCatalyst" Amount="8" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000046" ItemName="AWWayofTime:standardBindingAgent" Amount="4" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000047" ItemName="AWWayofTime:standardFillingAgent" Amount="4" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000048" ItemName="AWWayofTime:largeBloodStoneBrick" Amount="32" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000049" ItemName="AWWayofTime:blockCrystalBelljar" Amount="2" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000050" ItemName="AWWayofTime:reinforcedSlate" Amount="8" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="12000000-0000-0000-0000-000000000051" ItemName="AWWayofTime:blankSlate" Amount="8" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="13" GroupName="Magical - Adept" Rarity="0" MinItems="2" MaxItems="5" CombineTrashGroup="false">
+		<Loot Identifier="13000000-0000-0000-0000-000000000000" ItemName="Thaumcraft:BlockJarFilledItem" Amount="1" NBTTag="{Aspects:[0:{amount:64,key:&quot;perfodio&quot;}]}" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000001" ItemName="Thaumcraft:BlockJarFilledItem" Amount="1" NBTTag="{Aspects:[0:{amount:64,key:&quot;meto&quot;}]}" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000002" ItemName="Thaumcraft:ItemSanitySoap" Amount="8" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000003" ItemName="Thaumcraft:ItemBathSalts" Amount="8" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000004" ItemName="Thaumcraft:blockCrystal:6" Amount="2" NBTTag="" Chance="15" ItemGroup="advshards" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000005" ItemName="Thaumcraft:blockCrystal:5" Amount="2" NBTTag="" Chance="15" ItemGroup="advshards" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000006" ItemName="Thaumcraft:blockCrystal:4" Amount="2" NBTTag="" Chance="15" ItemGroup="advshards" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000007" ItemName="Thaumcraft:blockCrystal:3" Amount="2" NBTTag="" Chance="15" ItemGroup="advshards" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000008" ItemName="Thaumcraft:blockCrystal:1" Amount="2" NBTTag="" Chance="15" ItemGroup="advshards" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000009" ItemName="Thaumcraft:blockCrystal" Amount="2" NBTTag="" Chance="15" ItemGroup="advshards" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000010" ItemName="Thaumcraft:blockCrystal:2" Amount="2" NBTTag="" Chance="15" ItemGroup="advshards" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000013" ItemName="Thaumcraft:ItemResource:2" Amount="16" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000015" ItemName="Thaumcraft:ItemChestplateCultistPlate" Amount="1" NBTTag="" Chance="65" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000016" ItemName="Thaumcraft:ItemBootsCultist" Amount="1" NBTTag="" Chance="65" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000017" ItemName="Thaumcraft:ItemLeggingsCultistRobe" Amount="1" NBTTag="" Chance="65" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000018" ItemName="Thaumcraft:ItemChestplateCultistRobe" Amount="1" NBTTag="" Chance="65" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000019" ItemName="Thaumcraft:ItemHelmetCultistRobe" Amount="1" NBTTag="" Chance="65" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000020" ItemName="Thaumcraft:ItemHelmetCultistPlate" Amount="1" NBTTag="" Chance="65" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000021" ItemName="Thaumcraft:ItemLeggingsCultistPlate" Amount="1" NBTTag="" Chance="65" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000022" ItemName="Thaumcraft:BootsTraveller" Amount="1" NBTTag="" Chance="35" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000023" ItemName="Thaumcraft:blockMetalDevice:2" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000024" ItemName="Thaumcraft:blockStoneDevice:9" Amount="4" NBTTag="" Chance="25" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000025" ItemName="Thaumcraft:blockMetalDevice:9" Amount="2" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000026" ItemName="Thaumcraft:blockJar:3" Amount="2" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000027" ItemName="Thaumcraft:blockTube:4" Amount="4" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000028" ItemName="Thaumcraft:ItemGolemCore:100" Amount="4" NBTTag="" Chance="20" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000029" ItemName="Thaumcraft:ItemGolemPlacer" Amount="1" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000030" ItemName="Thaumcraft:ItemGolemPlacer:1" Amount="1" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000031" ItemName="Thaumcraft:FocusTrade" Amount="1" NBTTag="{upgrade:[0:{id:3s},1:{id:3s},2:{id:2s},3:{id:-1s},4:{id:-1s}]}" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000032" ItemName="Thaumcraft:FocusShock" Amount="1" NBTTag="{upgrade:[0:{id:0s},1:{id:0s},2:{id:18s},3:{id:-1s},4:{id:-1s}]}" Chance="10" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000033" ItemName="AWWayofTime:greaterLengtheningCatalyst" Amount="4" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000034" ItemName="AWWayofTime:enhancedFillingAgent" Amount="16" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000035" ItemName="AWWayofTime:greaterPowerCatalyst" Amount="8" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000036" ItemName="AWWayofTime:AlchemicalWizardrytile.blockSpellParadigm:3" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000037" ItemName="AWWayofTime:AlchemicalWizardrytile.blockSpellParadigm:2" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000038" ItemName="AWWayofTime:AlchemicalWizardrytile.blockSpellParadigm:1" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000039" ItemName="AWWayofTime:AlchemicalWizardrytile.blockSpellModifier:3" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000040" ItemName="AWWayofTime:AlchemicalWizardrytile.blockSpellEffect" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000041" ItemName="AWWayofTime:AlchemicalWizardrytile.blockSpellEffect:1" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000042" ItemName="AWWayofTime:AlchemicalWizardrytile.blockSpellEffect:2" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000043" ItemName="AWWayofTime:AlchemicalWizardrytile.blockSpellEffect:3" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000044" ItemName="AWWayofTime:AlchemicalWizardrytile.blockSpellParadigm" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000045" ItemName="AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000046" ItemName="AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:5" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000047" ItemName="AWWayofTime:AlchemicalWizardrytile.blockSpellModifier" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000048" ItemName="AWWayofTime:AlchemicalWizardrytile.blockSpellModifier:1" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000049" ItemName="AWWayofTime:blockReagentConduit" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000050" ItemName="AWWayofTime:emptySocket" Amount="2" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000051" ItemName="AWWayofTime:bloodMagicBaseAlchemyItems:4" Amount="16" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000052" ItemName="AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:10" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000053" ItemName="AWWayofTime:AlchemicalWizardrytile.blockSpellModifier:2" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="13000000-0000-0000-0000-000000000054" ItemName="AWWayofTime:imbuedSlate" Amount="8" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="14" GroupName="Magical - Expert" Rarity="0" MinItems="1" MaxItems="5" CombineTrashGroup="false">
+		<Loot Identifier="14000000-0000-0000-0000-000000000000" ItemName="Thaumcraft:ItemGolemPlacer:2" Amount="1" NBTTag="{gadomancy:{}}" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000001" ItemName="Thaumcraft:ItemGolemPlacer:3" Amount="1" NBTTag="{gadomancy:{}}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000002" ItemName="Thaumcraft:ItemGolemPlacer:4" Amount="1" NBTTag="{gadomancy:{}}" Chance="30" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000003" ItemName="Thaumcraft:ItemGolemPlacer:5" Amount="1" NBTTag="{gadomancy:{}}" Chance="25" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000004" ItemName="Thaumcraft:ItemGolemPlacer:6" Amount="1" NBTTag="{gadomancy:{}}" Chance="20" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000005" ItemName="Thaumcraft:ItemGolemPlacer:7" Amount="1" NBTTag="{gadomancy:{}}" Chance="15" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000006" ItemName="gadomancy:itemSilverwoodGolemPlacer:8" Amount="1" NBTTag="{gadomancy:{}}" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000007" ItemName="Thaumcraft:ItemGolemCore" Amount="2" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000008" ItemName="Thaumcraft:ItemGolemCore:1" Amount="2" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000009" ItemName="Thaumcraft:ItemGolemCore:2" Amount="2" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000010" ItemName="AWWayofTime:demonicSlate" Amount="8" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000011" ItemName="AWWayofTime:bloodMagicBaseItems:29" Amount="2" NBTTag="" Chance="50" ItemGroup="demonShards" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000012" ItemName="AWWayofTime:bloodMagicBaseItems:28" Amount="2" NBTTag="" Chance="50" ItemGroup="demonShards" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000013" ItemName="AWWayofTime:blockTeleposer" Amount="1" NBTTag="" Chance="45" ItemGroup="teleposer" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000014" ItemName="AWWayofTime:blockCrystalBelljar" Amount="1" NBTTag="{reagentTanks:[0:{amount:16000,Reagent:&quot;magicales&quot;,capacity:16000}]}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000015" ItemName="AWWayofTime:blockCrystalBelljar" Amount="1" NBTTag="{reagentTanks:[0:{amount:16000,Reagent:&quot;potentia&quot;,capacity:16000}]}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000016" ItemName="AWWayofTime:blockCrystalBelljar" Amount="1" NBTTag="{reagentTanks:[0:{amount:16000,Reagent:&quot;terrae&quot;,capacity:16000}]}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000017" ItemName="AWWayofTime:blockCrystalBelljar" Amount="1" NBTTag="{reagentTanks:[0:{amount:16000,Reagent:&quot;crepitous&quot;,capacity:16000}]}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000018" ItemName="AWWayofTime:blockCrystalBelljar" Amount="1" NBTTag="{reagentTanks:[0:{amount:16000,Reagent:&quot;offensa&quot;,capacity:16000}]}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000019" ItemName="AWWayofTime:blockCrystalBelljar" Amount="1" NBTTag="{reagentTanks:[0:{amount:16000,Reagent:&quot;orbisTerrae&quot;,capacity:16000}]}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000020" ItemName="AWWayofTime:blockCrystalBelljar" Amount="1" NBTTag="{reagentTanks:[0:{amount:16000,Reagent:&quot;virtus&quot;,capacity:16000}]}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000021" ItemName="AWWayofTime:blockCrystalBelljar" Amount="1" NBTTag="{reagentTanks:[0:{amount:16000,Reagent:&quot;crystallos&quot;,capacity:16000}]}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000022" ItemName="AWWayofTime:telepositionFocus" Amount="1" NBTTag="" Chance="45" ItemGroup="teleposer" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000023" ItemName="AWWayofTime:blockCrystalBelljar" Amount="1" NBTTag="{reagentTanks:[0:{amount:16000,Reagent:&quot;incendium&quot;,capacity:16000}]}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000024" ItemName="AWWayofTime:blockCrystalBelljar" Amount="1" NBTTag="{reagentTanks:[0:{amount:16000,Reagent:&quot;aquasalus&quot;,capacity:16000}]}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000025" ItemName="AWWayofTime:blockCrystalBelljar" Amount="1" NBTTag="{reagentTanks:[0:{amount:16000,Reagent:&quot;praesidium&quot;,capacity:16000}]}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000026" ItemName="AWWayofTime:blockCrystalBelljar" Amount="1" NBTTag="{reagentTanks:[0:{amount:16000,Reagent:&quot;aether&quot;,capacity:16000}]}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000027" ItemName="AWWayofTime:blockCrystalBelljar" Amount="1" NBTTag="{reagentTanks:[0:{amount:16000,Reagent:&quot;reductus&quot;,capacity:16000}]}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000028" ItemName="AWWayofTime:blockCrystalBelljar" Amount="1" NBTTag="{reagentTanks:[0:{amount:16000,Reagent:&quot;tenebrae&quot;,capacity:16000}]}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000029" ItemName="AWWayofTime:blockCrystalBelljar" Amount="1" NBTTag="{reagentTanks:[0:{amount:16000,Reagent:&quot;sanctus&quot;,capacity:16000}]}" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="14000000-0000-0000-0000-000000000030" ItemName="Thaumcraft:blockStoneDevice:11" Amount="2" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="15" GroupName="Magical - Master" Rarity="0" MinItems="1" MaxItems="5" CombineTrashGroup="false">
+		<Loot Identifier="15000000-0000-0000-0000-000000000000" ItemName="Thaumcraft:BlockJarNodeItem" Amount="1" NBTTag="{nodetype:0,Aspects:[0:{amount:80,key:&quot;instrumentum&quot;}],display:{Lore:[0:&quot;First hand. Not the second hand crap from the questbook&quot;],Name:&quot;Namikon's totally legit Node&quot;},nodemod:0,nodeid:&quot;0:-312:64:54&quot;}" Chance="15" LimitedDropCount="3" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000001" ItemName="Thaumcraft:ItemResource:16" Amount="16" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000002" ItemName="Thaumcraft:ItemLeggingsCultistLeaderPlate" Amount="1" NBTTag="" Chance="35" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000003" ItemName="Thaumcraft:ItemChestplateCultistLeaderPlate" Amount="1" NBTTag="" Chance="35" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000004" ItemName="Thaumcraft:ItemHelmetCultistLeaderPlate" Amount="1" NBTTag="" Chance="35" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000005" ItemName="Thaumcraft:BlockJarFilledItem" Amount="1" NBTTag="{Aspects:[0:{amount:64,key:&quot;strontio&quot;}]}" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000007" ItemName="thaumicenergistics:storage.essentia:1" Amount="1" NBTTag="" Chance="25" ItemGroup="essentiaAE" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000008" ItemName="thaumicenergistics:thaumicenergistics.block.essentia.provider" Amount="2" NBTTag="" Chance="25" ItemGroup="essentiaAE" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000009" ItemName="WarpTheory:item.warptheory.cleanser" Amount="1" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000011" ItemName="Thaumcraft:ItemGolemCore:7" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000012" ItemName="Thaumcraft:ItemGolemCore:6" Amount="1" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000013" ItemName="Thaumcraft:blockTube:7" Amount="2" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000014" ItemName="TaintedMagic:ItemShadowFortressHelmet" Amount="1" NBTTag="" Chance="5" ItemGroup="shadowarmor" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000015" ItemName="TaintedMagic:ItemShadowFortressChestplate" Amount="1" NBTTag="" Chance="5" ItemGroup="shadowarmor" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000016" ItemName="TaintedMagic:ItemShadowFortressLeggings" Amount="1" NBTTag="" Chance="5" ItemGroup="shadowarmor" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000017" ItemName="TaintedMagic:ItemVoidFortressHelmet" Amount="1" NBTTag="" Chance="5" ItemGroup="voidarmor" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000018" ItemName="TaintedMagic:ItemVoidFortressChestplate" Amount="1" NBTTag="" Chance="5" ItemGroup="voidarmor" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000019" ItemName="TaintedMagic:ItemVoidFortressLeggings" Amount="1" NBTTag="" Chance="5" ItemGroup="voidarmor" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="15000000-0000-0000-0000-000000000020" ItemName="Thaumcraft:ItemEldritchObject" Amount="2" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="16" GroupName="Magical - Grandmaster" Rarity="0" MinItems="1" MaxItems="2" CombineTrashGroup="false">
+		<Loot Identifier="16000000-0000-0000-0000-000000000000" ItemName="ThaumicTinkerer:warpGate" Amount="2" NBTTag="" Chance="50" ItemGroup="celestial_gateway" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="16000000-0000-0000-0000-000000000001" ItemName="WarpTheory:item.warptheory.amulet" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="16000000-0000-0000-0000-000000000002" ItemName="ThaumicTinkerer:kamiResource" Amount="8" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="16000000-0000-0000-0000-000000000003" ItemName="ThaumicTinkerer:skyPearl" Amount="1" NBTTag="" Chance="45" ItemGroup="celestial_gateway" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="16000000-0000-0000-0000-000000000004" ItemName="TaintedMagic:ItemKatana" Amount="1" NBTTag="" Chance="30" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="16000000-0000-0000-0000-000000000005" ItemName="TaintedMagic:ItemKatana:1" Amount="1" NBTTag="" Chance="25" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="16000000-0000-0000-0000-000000000006" ItemName="TaintedMagic:ItemKatana:2" Amount="1" NBTTag="" Chance="20" LimitedDropCount="1" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="17" GroupName="Bees/Trees - Basic" Rarity="0" MinItems="2" MaxItems="4" CombineTrashGroup="false">
+		<Loot Identifier="17000000-0000-0000-0000-000000000000" ItemName="Forestry:apiaristBoots" Amount="1" NBTTag="" Chance="50" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000001" ItemName="Forestry:beeCombs:4" Amount="8" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000002" ItemName="Forestry:beeCombs:2" Amount="8" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000003" ItemName="Forestry:apiculture:2" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000004" ItemName="Forestry:beeCombs:3" Amount="8" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000005" ItemName="Forestry:apiculture" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000006" ItemName="Forestry:propolis:3" Amount="4" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000007" ItemName="Forestry:apiaristChest" Amount="1" NBTTag="" Chance="50" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000008" ItemName="Forestry:beeCombs:15" Amount="8" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000009" ItemName="Forestry:beeCombs:16" Amount="8" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000010" ItemName="Forestry:propolis:1" Amount="4" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000011" ItemName="Forestry:frameImpregnated" Amount="6" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000012" ItemName="Forestry:propolis" Amount="4" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000013" ItemName="Forestry:apiaristLegs" Amount="1" NBTTag="" Chance="50" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000014" ItemName="Forestry:honeyDrop" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000015" ItemName="Forestry:apicultureChest" Amount="1" NBTTag="" Chance="25" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000016" ItemName="Forestry:beeCombs" Amount="8" NBTTag="" Chance="90" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000017" ItemName="Forestry:honeydew" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000018" ItemName="Forestry:frameUntreated" Amount="16" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000019" ItemName="Forestry:beealyzer" Amount="1" NBTTag="" Chance="5" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000020" ItemName="Forestry:beeCombs:6" Amount="8" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000021" ItemName="Forestry:apiaristHelmet" Amount="1" NBTTag="" Chance="50" LimitedDropCount="2" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000022" ItemName="Forestry:beeCombs:7" Amount="8" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000023" ItemName="Forestry:frameProven" Amount="4" NBTTag="" Chance="33" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000024" ItemName="Forestry:beeCombs:5" Amount="8" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000025" ItemName="Forestry:flutterlyzer" Amount="1" NBTTag="" Chance="25" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="17000000-0000-0000-0000-000000000026" ItemName="Forestry:scoop" Amount="1" NBTTag="" Chance="100" LimitedDropCount="2" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="18" GroupName="Bees/Trees - Greater" Rarity="0" MinItems="1" MaxItems="5" CombineTrashGroup="false">
+		<Loot Identifier="18000000-0000-0000-0000-000000000000" ItemName="Forestry:royalJelly" Amount="1" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000001" ItemName="MagicBees:frameNecrotic" Amount="2" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000002" ItemName="MagicBees:frameOblivion" Amount="1" NBTTag="" Chance="10" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000003" ItemName="ExtraBees:hiveFrame.cocoa" Amount="4" NBTTag="" Chance="400" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000004" ItemName="Forestry:frameProven" Amount="9" NBTTag="" Chance="400" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000005" ItemName="ExtraBees:hiveFrame.soul" Amount="4" NBTTag="" Chance="100" LimitedDropCount="24" RandomAmount="true" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000006" ItemName="MagicBees:frameMagic" Amount="4" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000007" ItemName="MagicBees:frameGentle" Amount="4" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000008" ItemName="MagicBees:frameMetabolic" Amount="4" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000009" ItemName="Forestry:alveary" Amount="4" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000010" ItemName="ExtraBees:alveary:3" Amount="1" NBTTag="" Chance="200" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000011" ItemName="ExtraBees:alveary:2" Amount="1" NBTTag="" Chance="200" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000012" ItemName="Forestry:honeyDrop" Amount="16" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000013" ItemName="Forestry:honeydew" Amount="16" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000014" ItemName="Forestry:beeCombs" Amount="16" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000015" ItemName="Forestry:waxCapsuleHoney" Amount="2" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000016" ItemName="Forestry:waxCapsuleBiomass" Amount="2" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000017" ItemName="Genetics:misc:1" Amount="16" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000018" ItemName="Genetics:misc:3" Amount="16" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="18000000-0000-0000-0000-000000000019" ItemName="Forestry:apiculture" Amount="4" NBTTag="" Chance="150" LimitedDropCount="0" RandomAmount="true" />
+	</LootGroup>
+	<LootGroup GroupMetaID="19" GroupName="Bees/Trees - Legendary" Rarity="0" MinItems="2" MaxItems="5" CombineTrashGroup="false">
+		<Loot Identifier="19000000-0000-0000-0000-000000000000" ItemName="ExtraBees:alveary" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="19000000-0000-0000-0000-000000000001" ItemName="ExtraBees:alveary:1" Amount="1" NBTTag="" Chance="33" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="19000000-0000-0000-0000-000000000002" ItemName="ExtraBees:alveary:2" Amount="1" NBTTag="" Chance="33" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="19000000-0000-0000-0000-000000000003" ItemName="ExtraBees:alveary:3" Amount="1" NBTTag="" Chance="33" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="19000000-0000-0000-0000-000000000004" ItemName="ExtraBees:alveary:4" Amount="1" NBTTag="" Chance="33" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="19000000-0000-0000-0000-000000000005" ItemName="ExtraBees:alveary:5" Amount="1" NBTTag="" Chance="33" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="19000000-0000-0000-0000-000000000006" ItemName="ExtraBees:alveary:6" Amount="1" NBTTag="" Chance="33" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="19000000-0000-0000-0000-000000000007" ItemName="Forestry:alveary" Amount="16" NBTTag="" Chance="67" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="19000000-0000-0000-0000-000000000008" ItemName="Forestry:alveary:2" Amount="1" NBTTag="" Chance="33" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="19000000-0000-0000-0000-000000000009" ItemName="Forestry:alveary:3" Amount="1" NBTTag="" Chance="33" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="19000000-0000-0000-0000-000000000010" ItemName="Forestry:alveary:4" Amount="1" NBTTag="" Chance="33" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="19000000-0000-0000-0000-000000000011" ItemName="Forestry:alveary:5" Amount="16" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="19000000-0000-0000-0000-000000000012" ItemName="Forestry:alveary:6" Amount="1" NBTTag="" Chance="33" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="19000000-0000-0000-0000-000000000013" ItemName="Forestry:alveary:7" Amount="1" NBTTag="" Chance="33" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="20" GroupName="Bees/Trees - Hives" Rarity="0" MinItems="1" MaxItems="4" CombineTrashGroup="false">
+		<Loot Identifier="20000000-0000-0000-0000-000000000000" ItemName="ExtraBees:hive" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="20000000-0000-0000-0000-000000000001" ItemName="ExtraBees:hive:1" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="20000000-0000-0000-0000-000000000002" ItemName="ExtraBees:hive:2" Amount="1" NBTTag="" Chance="33" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="20000000-0000-0000-0000-000000000003" ItemName="Forestry:beehives:1" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="20000000-0000-0000-0000-000000000004" ItemName="Forestry:beehives:2" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="20000000-0000-0000-0000-000000000005" ItemName="Forestry:beehives:3" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="20000000-0000-0000-0000-000000000006" ItemName="Forestry:beehives:4" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="20000000-0000-0000-0000-000000000007" ItemName="Forestry:beehives:5" Amount="1" NBTTag="" Chance="10" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="20000000-0000-0000-0000-000000000008" ItemName="Forestry:beehives:6" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="20000000-0000-0000-0000-000000000009" ItemName="Forestry:beehives:7" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="20000000-0000-0000-0000-000000000010" ItemName="MagicBees:hive" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="20000000-0000-0000-0000-000000000011" ItemName="MagicBees:hive:1" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="20000000-0000-0000-0000-000000000012" ItemName="MagicBees:hive:2" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="20000000-0000-0000-0000-000000000013" ItemName="MagicBees:hive:3" Amount="1" NBTTag="" Chance="25" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="20000000-0000-0000-0000-000000000014" ItemName="MagicBees:hive:4" Amount="1" NBTTag="" Chance="25" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="21" GroupName="Food - Snack" Rarity="0" MinItems="2" MaxItems="5" CombineTrashGroup="false">
+		<Loot Identifier="21000000-0000-0000-0000-000000000000" ItemName="harvestcraft:fishtrapbaitItem" Amount="32" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000001" ItemName="minecraft:apple" Amount="8" NBTTag="" Chance="90" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000002" ItemName="minecraft:bread" Amount="2" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000003" ItemName="minecraft:cake" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000004" ItemName="minecraft:mushroom_stew" Amount="1" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000006" ItemName="minecraft:porkchop" Amount="5" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000007" ItemName="minecraft:golden_apple" Amount="1" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000008" ItemName="minecraft:fish" Amount="5" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000009" ItemName="minecraft:fish:1" Amount="5" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000010" ItemName="minecraft:fish:2" Amount="5" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000011" ItemName="minecraft:fish:3" Amount="5" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000012" ItemName="minecraft:cooked_porkchop" Amount="3" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000013" ItemName="minecraft:cooked_fished" Amount="3" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000014" ItemName="minecraft:cooked_fished:1" Amount="3" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000015" ItemName="minecraft:cooked_beef" Amount="3" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000016" ItemName="minecraft:cooked_chicken" Amount="3" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000017" ItemName="minecraft:baked_potato" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000018" ItemName="minecraft:pumpkin_pie" Amount="2" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000019" ItemName="minecraft:melon" Amount="8" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000020" ItemName="minecraft:golden_carrot" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000021" ItemName="minecraft:cookie" Amount="4" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000022" ItemName="minecraft:beef" Amount="5" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000023" ItemName="minecraft:chicken" Amount="5" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000024" ItemName="Automagy:foodstuff" Amount="1" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000025" ItemName="harvestcraft:calamaricookedItem" Amount="3" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000026" ItemName="harvestcraft:muttoncookedItem" Amount="3" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000027" ItemName="harvestcraft:maplesyrupItem" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000028" ItemName="harvestcraft:applejuiceItem" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000029" ItemName="harvestcraft:melonjuiceItem" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000030" ItemName="harvestcraft:melonsmoothieItem" Amount="2" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000031" ItemName="harvestcraft:carrotjuiceItem" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000032" ItemName="harvestcraft:carrotsoupItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000033" ItemName="harvestcraft:glazedcarrotsItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000034" ItemName="harvestcraft:boiledeggItem" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000035" ItemName="harvestcraft:stockItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000036" ItemName="harvestcraft:chocolatebarItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000037" ItemName="harvestcraft:cherrysmoothieItem" Amount="2" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000038" ItemName="harvestcraft:beetsaladItem" Amount="1" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000039" ItemName="harvestcraft:beetsoupItem" Amount="1" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000040" ItemName="harvestcraft:pickledbeetsItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000041" ItemName="harvestcraft:mochaicecreamItem" Amount="1" NBTTag="" Chance="75" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000042" ItemName="harvestcraft:blueberryjuiceItem" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000043" ItemName="harvestcraft:lemonaideItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000044" ItemName="harvestcraft:grapejuiceItem" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000045" ItemName="harvestcraft:grapejellyItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000046" ItemName="harvestcraft:strawberrysmoothieItem" Amount="2" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000047" ItemName="harvestcraft:papayajuiceItem" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000048" ItemName="harvestcraft:papayasmoothieItem" Amount="2" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000049" ItemName="harvestcraft:starfruitsmoothieItem" Amount="2" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000050" ItemName="harvestcraft:starfruitjuiceItem" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000051" ItemName="harvestcraft:starfruityogurtItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000052" ItemName="harvestcraft:pearyogurtItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000053" ItemName="harvestcraft:plumyogurtItem" Amount="1" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000054" ItemName="harvestcraft:coconutmilkItem" Amount="1" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000055" ItemName="harvestcraft:bananasmoothieItem" Amount="2" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000056" ItemName="harvestcraft:bananayogurtItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000057" ItemName="harvestcraft:pomegranatejuiceItem" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000058" ItemName="harvestcraft:peachsmoothieItem" Amount="2" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000059" ItemName="harvestcraft:pomegranatesmoothieItem" Amount="2" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000060" ItemName="harvestcraft:mangosmoothieItem" Amount="2" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000061" ItemName="harvestcraft:blackberrysmoothieItem" Amount="2" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000062" ItemName="harvestcraft:kiwijuiceItem" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000063" ItemName="harvestcraft:blackberryjuiceItem" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000064" ItemName="harvestcraft:fruitpunchItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000065" ItemName="harvestcraft:cranberryjuiceItem" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000066" ItemName="harvestcraft:plumjuiceItem" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="21000000-0000-0000-0000-000000000067" ItemName="harvestcraft:pearjuiceItem" Amount="4" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="22" GroupName="Food - Quick" Rarity="0" MinItems="1" MaxItems="4" CombineTrashGroup="false">
+		<Loot Identifier="22000000-0000-0000-0000-000000000000" ItemName="harvestcraft:applejellysandwichItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000001" ItemName="harvestcraft:deluxechickencurryItem" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000002" ItemName="harvestcraft:chickengumboItem" Amount="1" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000003" ItemName="harvestcraft:generaltsochickenItem" Amount="1" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000004" ItemName="harvestcraft:friedchickenItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000005" ItemName="harvestcraft:frenchtoastItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000006" ItemName="harvestcraft:blackberryjellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000007" ItemName="harvestcraft:blueberryjellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000008" ItemName="harvestcraft:cherryjellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000009" ItemName="harvestcraft:cranberryjellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000010" ItemName="harvestcraft:kiwijellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000011" ItemName="harvestcraft:lemonjellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000012" ItemName="harvestcraft:limejellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000013" ItemName="harvestcraft:mangojellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000014" ItemName="harvestcraft:orangejellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000015" ItemName="harvestcraft:papayajellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000016" ItemName="harvestcraft:peachjellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000017" ItemName="harvestcraft:pomegranatejellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000018" ItemName="harvestcraft:raspberryjellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000019" ItemName="harvestcraft:starfruitjellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000020" ItemName="harvestcraft:strawberryjellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000021" ItemName="harvestcraft:watermelonjellysandwichItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000022" ItemName="harvestcraft:beetburgerItem" Amount="1" NBTTag="" Chance="40" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000023" ItemName="harvestcraft:mcpamItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000024" ItemName="harvestcraft:meatfeastpizzaItem" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000025" ItemName="harvestcraft:spagettiandmeatballsItem" Amount="1" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000026" ItemName="harvestcraft:spagettiItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000027" ItemName="harvestcraft:pizzaItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000028" ItemName="harvestcraft:mushroomrisottoItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="22000000-0000-0000-0000-000000000029" ItemName="harvestcraft:ploughmanslunchItem" Amount="1" NBTTag="" Chance="60" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="23" GroupName="Food - Fulfilling" Rarity="0" MinItems="1" MaxItems="2" CombineTrashGroup="false">
+		<Loot Identifier="23000000-0000-0000-0000-000000000000" ItemName="harvestcraft:sausageinbreadItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="23000000-0000-0000-0000-000000000001" ItemName="harvestcraft:epicbaconItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="23000000-0000-0000-0000-000000000002" ItemName="harvestcraft:beefwellingtonItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="23000000-0000-0000-0000-000000000003" ItemName="harvestcraft:delightedmealItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="23000000-0000-0000-0000-000000000004" ItemName="harvestcraft:heartybreakfastItem" Amount="1" NBTTag="" Chance="80" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="23000000-0000-0000-0000-000000000005" ItemName="harvestcraft:rainbowcurryItem" Amount="1" NBTTag="" Chance="90" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="23000000-0000-0000-0000-000000000006" ItemName="harvestcraft:supremepizzaItem" Amount="1" NBTTag="" Chance="90" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="24" GroupName="Seeds" Rarity="0" MinItems="5" MaxItems="12" CombineTrashGroup="false">
+		<Loot Identifier="24000000-0000-0000-0000-000000000000" ItemName="harvestcraft:blackberryseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000001" ItemName="harvestcraft:blueberryseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000002" ItemName="harvestcraft:candleberryseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000003" ItemName="harvestcraft:raspberryseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000004" ItemName="harvestcraft:strawberryseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000005" ItemName="harvestcraft:grapeseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000006" ItemName="harvestcraft:cactusfruitseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000007" ItemName="harvestcraft:asparagusseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000008" ItemName="harvestcraft:barleyseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000009" ItemName="harvestcraft:oatsseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000010" ItemName="harvestcraft:ryeseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000011" ItemName="harvestcraft:cornseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000012" ItemName="harvestcraft:bambooshootseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000013" ItemName="harvestcraft:cantaloupeseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000014" ItemName="harvestcraft:cucumberseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000015" ItemName="harvestcraft:wintersquashseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000016" ItemName="harvestcraft:zucchiniseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000017" ItemName="harvestcraft:beetseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000018" ItemName="harvestcraft:onionseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000019" ItemName="harvestcraft:parsnipseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000020" ItemName="harvestcraft:peanutseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000021" ItemName="harvestcraft:radishseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000022" ItemName="harvestcraft:rutabagaseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000023" ItemName="harvestcraft:sweetpotatoseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000024" ItemName="harvestcraft:turnipseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000025" ItemName="harvestcraft:rhubarbseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000026" ItemName="harvestcraft:celeryseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000027" ItemName="harvestcraft:garlicseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000028" ItemName="harvestcraft:gingerseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000029" ItemName="harvestcraft:spiceleafseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000030" ItemName="harvestcraft:teaseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000031" ItemName="harvestcraft:coffeeseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000032" ItemName="harvestcraft:mustardseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000033" ItemName="harvestcraft:broccoliseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000034" ItemName="harvestcraft:cauliflowerseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000035" ItemName="harvestcraft:leekseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000036" ItemName="harvestcraft:lettuceseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000037" ItemName="harvestcraft:scallionseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000038" ItemName="harvestcraft:artichokeseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000039" ItemName="harvestcraft:brusselsproutseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000040" ItemName="harvestcraft:cabbageseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000041" ItemName="harvestcraft:spinachseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000042" ItemName="harvestcraft:beanseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000043" ItemName="harvestcraft:soybeanseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000044" ItemName="harvestcraft:bellpepperseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000045" ItemName="harvestcraft:chilipepperseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000046" ItemName="harvestcraft:eggplantseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000047" ItemName="harvestcraft:okraseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000048" ItemName="harvestcraft:peasseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000049" ItemName="harvestcraft:tomatoseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000050" ItemName="harvestcraft:pineappleseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000051" ItemName="harvestcraft:curryleafseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000052" ItemName="harvestcraft:sesameseedsseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000053" ItemName="harvestcraft:kiwiseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000054" ItemName="harvestcraft:cranberryseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000055" ItemName="harvestcraft:riceseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000056" ItemName="harvestcraft:seaweedseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000057" ItemName="harvestcraft:waterchestnutseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000058" ItemName="harvestcraft:whitemushroomseedItem" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000059" ItemName="AgriCraft:seedShroomBrown" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000060" ItemName="AgriCraft:seedShroomRed" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000061" ItemName="AgriCraft:seedTulipPink" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000062" ItemName="AgriCraft:seedTulipWhite" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000063" ItemName="AgriCraft:seedTulipOrange" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000064" ItemName="AgriCraft:seedTulipRed" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000065" ItemName="AgriCraft:seedDaisy" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000066" ItemName="AgriCraft:seedAllium" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000067" ItemName="AgriCraft:seedOrchid" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000068" ItemName="AgriCraft:seedPoppy" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000069" ItemName="AgriCraft:seedDandelion" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000070" ItemName="AgriCraft:seedSugarcane" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000071" ItemName="AgriCraft:seedCarrot" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000072" ItemName="AgriCraft:seedPotato" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000073" ItemName="AgriCraft:seedCactus" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000074" ItemName="minecraft:melon_seeds" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000075" ItemName="minecraft:wheat_seeds" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000076" ItemName="minecraft:pumpkin_seeds" Amount="1" NBTTag="" Chance="100" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000077" ItemName="AgriCraft:seedBotaniaWhite" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000078" ItemName="AgriCraft:seedBotaniaOrange" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000079" ItemName="AgriCraft:seedBotaniaMagenta" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000080" ItemName="AgriCraft:seedBotaniaLightBlue" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000081" ItemName="AgriCraft:seedBotaniaYellow" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000082" ItemName="AgriCraft:seedBotaniaLime" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000083" ItemName="AgriCraft:seedBotaniaPink" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000084" ItemName="AgriCraft:seedBotaniaGray" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000085" ItemName="AgriCraft:seedBotaniaLightGray" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000086" ItemName="AgriCraft:seedBotaniaCyan" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000087" ItemName="AgriCraft:seedBotaniaPurple" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000088" ItemName="AgriCraft:seedBotaniaBlue" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000089" ItemName="AgriCraft:seedBotaniaBrown" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000090" ItemName="AgriCraft:seedBotaniaGreen" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000091" ItemName="AgriCraft:seedBotaniaRed" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000092" ItemName="AgriCraft:seedBotaniaBlack" Amount="1" NBTTag="" Chance="50" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000093" ItemName="witchery:seedsbelladonna" Amount="1" NBTTag="" Chance="25" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000094" ItemName="witchery:seedsmandrake" Amount="1" NBTTag="" Chance="25" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000095" ItemName="witchery:seedsartichoke" Amount="1" NBTTag="" Chance="25" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000096" ItemName="witchery:seedssnowbell" Amount="1" NBTTag="" Chance="25" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000097" ItemName="witchery:seedswormwood" Amount="1" NBTTag="" Chance="10" LimitedDropCount="10" RandomAmount="false" />
+		<Loot Identifier="24000000-0000-0000-0000-000000000098" ItemName="witchery:seedswolfsbane" Amount="1" NBTTag="" Chance="10" LimitedDropCount="10" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="25" GroupName="Gardens" Rarity="0" MinItems="1" MaxItems="2" CombineTrashGroup="false">
+		<Loot Identifier="25000000-0000-0000-0000-000000000000" ItemName="harvestcraft:berrygarden" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="25000000-0000-0000-0000-000000000001" ItemName="harvestcraft:desertgarden" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="25000000-0000-0000-0000-000000000002" ItemName="harvestcraft:grassgarden" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="25000000-0000-0000-0000-000000000003" ItemName="harvestcraft:gourdgarden" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="25000000-0000-0000-0000-000000000004" ItemName="harvestcraft:groundgarden" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="25000000-0000-0000-0000-000000000005" ItemName="harvestcraft:herbgarden" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="25000000-0000-0000-0000-000000000006" ItemName="harvestcraft:leafygarden" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="25000000-0000-0000-0000-000000000007" ItemName="harvestcraft:mushroomgarden" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="25000000-0000-0000-0000-000000000008" ItemName="harvestcraft:stalkgarden" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="25000000-0000-0000-0000-000000000009" ItemName="harvestcraft:textilegarden" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="25000000-0000-0000-0000-000000000010" ItemName="harvestcraft:tropicalgarden" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="25000000-0000-0000-0000-000000000011" ItemName="harvestcraft:watergarden" Amount="1" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="26" GroupName="LP/AE - Normal" Rarity="0" MinItems="2" MaxItems="4" CombineTrashGroup="false">
+		<Loot Identifier="26000000-0000-0000-0000-000000000000" ItemName="appliedenergistics2:item.ItemBasicStorageCell.1k" Amount="4" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="26000000-0000-0000-0000-000000000001" ItemName="appliedenergistics2:item.ItemMultiMaterial:26" Amount="4" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="26000000-0000-0000-0000-000000000002" ItemName="appliedenergistics2:item.ItemMultiMaterial:27" Amount="4" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="26000000-0000-0000-0000-000000000003" ItemName="appliedenergistics2:item.ItemMultiMaterial:29" Amount="4" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="26000000-0000-0000-0000-000000000004" ItemName="appliedenergistics2:item.ItemMultiMaterial:30" Amount="4" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="26000000-0000-0000-0000-000000000005" ItemName="appliedenergistics2:item.ItemMultiMaterial:31" Amount="4" NBTTag="" Chance="55" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="26000000-0000-0000-0000-000000000006" ItemName="appliedenergistics2:item.ItemMultiMaterial:53" Amount="164" NBTTag="" Chance="65" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="26000000-0000-0000-0000-000000000007" ItemName="appliedenergistics2:item.ItemMultiPart:16" Amount="32" NBTTag="" Chance="70" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="26000000-0000-0000-0000-000000000008" ItemName="appliedenergistics2:item.ItemMultiPart:56" Amount="16" NBTTag="" Chance="45" LimitedDropCount="0" RandomAmount="true" />
+	</LootGroup>
+	<LootGroup GroupMetaID="27" GroupName="LP/AE - Greater" Rarity="0" MinItems="2" MaxItems="3" CombineTrashGroup="false">
+		<Loot Identifier="27000000-0000-0000-0000-000000000000" ItemName="appliedenergistics2:item.ItemBasicStorageCell.16k" Amount="4" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="28" GroupName="LP/AE - Legendary" Rarity="0" MinItems="2" MaxItems="2" CombineTrashGroup="false">
+		<Loot Identifier="28000000-0000-0000-0000-000000000000" ItemName="appliedenergistics2:item.ItemBasicStorageCell.64k" Amount="4" NBTTag="" Chance="35" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="28000000-0000-0000-0000-000000000001" ItemName="appliedenergistics2:tile.BlockController" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="28000000-0000-0000-0000-000000000002" ItemName="appliedenergistics2:tile.BlockQuantumLinkChamber" Amount="1" NBTTag="" Chance="10" ItemGroup="quantumchamber" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="28000000-0000-0000-0000-000000000003" ItemName="appliedenergistics2:tile.BlockQuantumRing" Amount="8" NBTTag="" Chance="10" ItemGroup="quantumchamber" LimitedDropCount="1" RandomAmount="false" />
+	</LootGroup>
+	<LootGroup GroupMetaID="29" GroupName="Building - Normal" Rarity="0" MinItems="1" MaxItems="1" CombineTrashGroup="false">
+		<Loot Identifier="29000000-0000-0000-0000-000000000000" ItemName="Ztones:tile.bittBlock" Amount="32" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000001" ItemName="Ztones:tile.agonBlock" Amount="32" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000002" ItemName="Ztones:tile.krypBlock" Amount="32" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000003" ItemName="Ztones:tile.iszmBlock" Amount="32" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000004" ItemName="Ztones:tile.fortBlock" Amount="32" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000005" ItemName="Ztones:tile.korpBlock" Amount="32" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000006" ItemName="Ztones:tile.jeltBlock" Amount="32" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000007" ItemName="Ztones:tile.crayBlock" Amount="32" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000008" ItemName="minecraft:stained_glass" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000009" ItemName="minecraft:stained_glass:1" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000010" ItemName="minecraft:stained_glass:2" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000011" ItemName="minecraft:stained_glass:3" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000012" ItemName="minecraft:stained_glass:4" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000013" ItemName="minecraft:stained_glass:5" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000014" ItemName="minecraft:stained_glass:6" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000015" ItemName="minecraft:stained_glass:7" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000016" ItemName="minecraft:stained_glass:8" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000017" ItemName="minecraft:stained_glass:9" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000018" ItemName="minecraft:stained_glass:10" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000019" ItemName="minecraft:stained_glass:11" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000020" ItemName="minecraft:stained_glass:12" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000021" ItemName="minecraft:stained_glass:13" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000022" ItemName="minecraft:stained_glass:14" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000023" ItemName="minecraft:stained_glass:15" Amount="16" NBTTag="" Chance="50" ItemGroup="stainedglass" LimitedDropCount="1" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000024" ItemName="minecraft:glass" Amount="64" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000025" ItemName="minecraft:redstone_lamp" Amount="8" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="false" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000026" ItemName="minecraft:brick_block" Amount="48" NBTTag="" Chance="100" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000027" ItemName="minecraft:brick_block" Amount="48" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000028" ItemName="CarpentersBlocks:blockCarpentersBlock" Amount="32" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000029" ItemName="CarpentersBlocks:blockCarpentersBarrier" Amount="32" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000030" ItemName="CarpentersBlocks:blockCarpentersCollapsibleBlock" Amount="32" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000031" ItemName="CarpentersBlocks:blockCarpentersGarageDoor" Amount="8" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000032" ItemName="CarpentersBlocks:blockCarpentersGate" Amount="4" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000033" ItemName="CarpentersBlocks:blockCarpentersSlope" Amount="48" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000034" ItemName="CarpentersBlocks:blockCarpentersStairs" Amount="48" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+		<Loot Identifier="29000000-0000-0000-0000-000000000035" ItemName="CarpentersBlocks:blockCarpentersDoor" Amount="6" NBTTag="" Chance="50" LimitedDropCount="0" RandomAmount="true" />
+	</LootGroup>
+</LootGroups>

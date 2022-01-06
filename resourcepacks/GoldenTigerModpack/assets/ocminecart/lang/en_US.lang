@@ -1,0 +1,60 @@
+itemGroup.ocminecart.modtab=OC-Minecarts
+
+#Item Names
+item.ocminecart.itemcomputercart.name=Minecart w/ Computer
+item.ocminecart.computercartcase.name=Minecart w/ Computer
+item.ocminecart.remotemodule.name=Remote Module
+item.ocminecart.remoteanalyzer.name=Remote Module Analyzer
+item.ocminecart.linkingupgrade.name=Minecart Linking Upgrade
+
+#Tile Entity Names
+tile.ocminecart.networkrail.name=Network Track
+tile.ocminecart.networkrailbase.name=Network Track Controller
+
+#Entity Names
+entity.ocminecart.computercart.name=Minecart w/ Computer
+
+#GUI Text (Head)
+gui.ocminecart.networkrailbase.title=Network Track Controller
+gui.ocminecart.manual=OC-Minecarts
+gui.ocminecart.remmconf=Remote Module Config
+
+#GUI Text
+gui.ocminecart.networkrailbase.info=Connection Type
+gui.ocminecart.general.confirm=Confirm
+gui.ocminecart.general.success=Success
+gui.ocminecart.general.failed=Failed
+gui.ocminecart.remotem.chpass=Change Password:
+gui.ocminecart.remotem.remmodule=Remove Module
+
+#Tooltip for Items
+tooltip.ocminecart.instcomponents=Installed Components
+tooltip.ocminecart.viewcomponents=<Hold CONTROL to view components>
+tooltip.ocminecart.moreinfo=<Hold SHIFT for more information>
+tooltip.ocminecart.emblem=Emblem:
+tooltip.ocminecart.tier1=(Tier 1)
+tooltip.ocminecart.tier2=(Tier 2)
+tooltip.ocminecart.tier3=(Tier 3)
+tooltip.ocminecart.tier4=(Creative Only)
+
+#Tooltip for Items (item descriptions)
+tooltip.ocminecart.remotemodule.desc=Control locomotives
+tooltip.ocminecart.remoteanalyzer.desc=Right-click on a minecart with a information; Control+Shift to copy the address
+tooltip.ocminecart.linkingupgrade.desc=Allows Minecart w/ Computer to link/unlink other minecarts to the train
+
+#Tooltip for GUIs
+tooltip.ocminecart.gui.turnon=Turn on
+tooltip.ocminecart.gui.turnoff=Turn off
+tooltip.ocminecart.gui.useanalyzer=Use an Analyzer to troubleshoot errors
+tooltip.ocminecart.storedenergy=Stored Energy
+tooltip.ocminecart.address=Address
+tooltip.ocminecart.gui.chpass=Change Password
+tooltip.ocminecart.gui.empass=Empty Password for no Password
+tooltip.ocminecart.gui.lockbtn=Click to lock/unlock the module
+
+#Chat messages
+chat.ocminecart.invalidcart=Incompatible minecart
+chat.ocminecart.moduleinstalled=Successfully installed the Remote Module
+chat.ocminecart.hasmodule=This minecart already has a remote module
+chat.ocminecart.clipboard=Copied to clipboard
+chat.ocminecart.owneronly=Only the owner can access that

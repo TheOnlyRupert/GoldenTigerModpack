@@ -1,0 +1,5 @@
+{BiblioCraft:[
+   {hide:[[BiblioClipboard,BookcaseFilled],[]]};
+   {hide:[item.,[RecipeBook,AtlasPlate,EnchantedPlate,DeathCompass,PrintPlate,TesterItem,BiblioDrill],[]]};
+   ]
+}

@@ -1,0 +1,10 @@
+{
+advancedRocketry:[
+	{hide:[[tile.electricArcFurnace,tile.lathe,tile.rollingMachine,tile.blockHandPress,tile.smallAirlockDoor,tile.unlittorch,tile.nitrogenFluidBlock,tile.crystal,tile.astroBed,tile.forceField,advancedRocketryproductboule,advancedRocketryproductfan,advancedRocketryproductcrystal,tile.dataPipe,tile.liquidPipe,tile.energyPipe,tile.pressurizedTank,item.bucketNitrogen,tile.concrete,tile.solarPanel,tile.solarGenerator],[]]};
+	{hide:[[pressureTank],[0-2]]};
+],
+libVulpes:[
+	{hide:[[libVulpesore0,libVulpesmetal0,libVulpesproductdust,libVulpesproductnugget,libVulpesproductingot],[1,2,4,5,6,9]]};
+	{hide:[[tile.coalGenerator],[]]};
+]
+}

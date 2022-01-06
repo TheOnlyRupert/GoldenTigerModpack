@@ -1,0 +1,51 @@
+item.sstow.shard_unbound.name=Soul Shard (Unbound)
+item.sstow.shard.name=Soul Shard
+item.sstow.material.nugget.iron.name=Iron Nugget
+item.sstow.material.nugget.soulium.name=Soulium Nugget
+item.sstow.material.ingot.soulium.name=Soulium Ingot
+item.sstow.material.dust.vile.name=Vile Dust
+item.sstow.material.essence.corrupted.name=Corrupted Essence
+item.sstow.soul_sword.name=Soul Sword
+item.sstow.soul_pickaxe.name=Soul Pickaxe
+item.sstow.soul_axe.name=Soul Axe
+item.sstow.soul_hoe.name=Soul Hoe
+item.sstow.soul_spade.name=Soul Shovel
+
+container.soulforge=Soul Forge
+
+tile.sstow.forge_block.name=Soul Forge
+tile.sstow.soulium_block.name=Soulium Block
+tile.sstow.cage_block.name=Soul Cage
+
+sstow.waila.soulcage.mob=Entity: 
+sstow.waila.soulcage.tier=Tier: 
+sstow.waila.soulcage.activated=Status: Activated
+sstow.waila.soulcage.deactivated=Status: Deactivated
+sstow.waila.soulcage.empty=Status: Empty
+
+enchantment.soul_stealer=Soul Stealer
+
+itemGroup.soul_shards_the_old_ways=Soul Shards The Old Ways
+
+achievement.createShard=DISABLED
+achievement.createShard.desc=DISABLED
+achievement.tier1Shard=DISABLED
+achievement.tier1Shard.desc=DISABLED
+achievement.tier2Shard=DISABLED
+achievement.tier2Shard.desc=DISABLED
+achievement.tier3Shard=DISABLED
+achievement.tier3Shard.desc=DISABLED
+achievement.tier4Shard=DISABLED
+achievement.tier4Shard.desc=DISABLED
+achievement.tier5Shard=DISABLED
+achievement.tier5Shard.desc=DISABLED
+achievement.createCage=DISABLED
+achievement.createCage.desc=DISABLED
+achievement.vile_dust=DISABLED
+achievement.vile_dust.desc=DISABLED
+achievement.corrupted_essence=DISABLED
+achievement.corrupted_essence.desc=DISABLED
+achievement.soulForge=DISABLED
+achievement.soulForge.desc=DISABLED
+achievement.fixed=DISABLED
+achievement.fixed.desc=DISABLED

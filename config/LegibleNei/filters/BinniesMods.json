@@ -1,0 +1,14 @@
+{
+ExtraBees:[
+	{hide:[[misc],[17,19-25]]};
+	{hide:[[hive],[3]]};
+],
+ExtraTrees:[
+	{hide:[[fence,multifence,gate,doubleSlab],[]]};
+	{hide:[[misc],[1-2]]};
+	{hide:[[machine],[0]]};
+],
+Genetics:[
+	{keep-one:[[serum*],[]]};
+]
+}

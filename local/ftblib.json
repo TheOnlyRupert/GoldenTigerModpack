@@ -1,0 +1,14 @@
+{
+  "command_names": {
+    "edit_config": "editconfig",
+    "reload": "reload",
+    "set_item_name": "rename",
+    "trash_can": "trash"
+  },
+  "commands": {
+    "override_help": false,
+    "override_list": false,
+    "set_item_name": "op",
+    "trash_can": "all"
+  }
+}

@@ -1,0 +1,17 @@
+{
+   "data": [
+      {
+         "name": "oreRekt",
+         "type": "rock",
+         "shape": "normal",
+         "hardness": 1.0,
+         "resistance": 3,
+         "harvestLevel": 7,
+         "toolType": "pickaxe",
+         "isOpaque": true,
+         "lightLevel": 0,
+         "maxStackSize": 64,
+         "drops": []
+      }
+   ]
+}

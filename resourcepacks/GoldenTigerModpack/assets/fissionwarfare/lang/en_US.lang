@@ -1,0 +1,109 @@
+#-#-#-#-#-|ITEMS - MAIN|-#-#-#-#-#
+
+item.quartz_sand.name=Quartz Sand
+item.quartz_chunk.name=Quartz Chunk
+item.limestone_chunk.name=Limestone Chunk
+item.radioactive_chunk.name=Radioactive Chunk
+item.uranium_pellet.name=Uranium Pellet
+
+item.steel_ingot.name=Steel Ingot
+item.steel_plate.name=Moonstone Plate
+
+item.poison_capsule.name=Poison Capsule
+item.fiery_capsule.name=Fiery Capsule
+item.shrapnel_capsule.name=Shrapnel Capsule
+item.electromagnetic_capsule.name=Electromagnetic Capsule
+item.storm_capsule.name=Storm Capsule
+item.nuclear_capsule.name=Nuclear Capsule
+item.fission_capsule.name=Fission Capsule
+
+item.cement.name=Cement
+item.wet_cement.name=Wet Cement
+
+item.lightning_rod.name=Lightning Rod
+item.iron_frame.name=Iron Frame
+item.circuit_0.name=Basic Circuit
+item.circuit_1.name=Advanced Circuit
+item.circuit_2.name=Hyper Circuit
+item.fuel_canister_0.name=Liquid Coal Canister
+item.fuel_canister_1.name=Pyrotheum Canister
+item.fuel_canister_2.name=Cryotheum Canister
+item.plating_0.name=Invar Plating
+item.plating_1.name=Electrum Plating
+item.plating_2.name=Enderium Plating
+item.motor.name=Motor
+
+item.cartridge.name=Cartridge
+
+item.steel_sword.name=Steel Sword
+item.steel_pickaxe.name=Steel Pickaxe
+item.steel_shovel.name=Steel Shovel
+item.steel_axe.name=Steel Axe
+item.steel_hoe.name=Steel Hoe
+
+#-#-#-#-#-|ITEMS - WARFARE|-#-#-#-#-#
+
+item.itemblock_control_panel.name=Control Panel
+item.itemblock_support_frame.name=Support Frame
+
+item.location_linker.name=Location Linker
+
+item.stock.name=Gun Part - Stock
+item.handle.name=Gun Part - Handle
+item.barrel.name=Gun Part - Barrel
+
+item.shotgun.name=Shotgun
+item.bullet.name=Bullet
+
+item.missile.name=Missile
+
+#-#-#-#-#-|BLOCKS - MAIN|-#-#-#-#-#
+
+tile.limestone_ore.name=Limestone Ore
+tile.quartz_ore.name=Quartz Ore
+tile.sulfur_ore.name=Sulfur Ore
+tile.uranium_ore.name=Uranium Ore
+
+#-#-#-#-#-|BLOCKS - WARFARE|-#-#-#-#-#
+
+tile.concrete_15.name=Concrete
+tile.steel_block_15.name=Steel Block
+tile.reinforced_glass_10.name=Reinforced Glass
+
+tile.fisssion.name=Fission
+
+tile.basic_explosion.name=Basic Explosive
+tile.emp_explosion.name=EMP Explosive
+tile.pyro_explosion.name=Pyrotechnics Explosive
+tile.chemical_explosion.name=Chemical Explosive
+tile.storm_explosion.name=Storm Explosive
+tile.atomic_explosion.name=Atomic Explosive
+tile.fission_explosion.name=Fission Explosive
+
+tile.sentry_turret.name=Sentry Turret
+tile.missile_turret.name=Anti-Missile Turret
+
+tile.missile_factory.name=Missile Factory
+
+tile.launch_pad.name=Launch Pad
+tile.control_panel.name=Control Panel
+tile.support_frame_1.name=Support Frame
+
+#-#-#-#-#-FLUIDS-#-#-#-#-#
+
+fluid.concrete_mix=Concrete Mix
+tile.concrete_mix.name=Concrete Mix
+
+fluid.liquid_glass=Liquid Glass
+tile.liquid_glass.name=Liquid Glass
+
+#-#-#-#-#-ENTITY-#-#-#-#-#
+
+entity.FissionWarfare.fission_core.name=Fission Core
+
+#-#-#-#-#-CONFIG-#-#-#-#-#
+
+category.general_options.name=General Options
+category.client.name=Client
+category.gen.name=World Gen
+category.warfare.name=Warfare

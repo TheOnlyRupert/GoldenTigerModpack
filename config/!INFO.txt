@@ -1,0 +1,334 @@
+/////////////////////////////////////////////
+//		METAL/MINERAL PROCESSING
+/////////////////////////////////////////////
+
+Metal Ore 			-> TCon Smeltery 		-> 144mB Molten Liquid
+Metal Ore			-> Magma Crucible		-> 144mB Molten Liquid
+Metal Ore 			-> Pulverizer 			-> 2x Dust + 10% Secondary Dust Output Chance
+Metal Ore 			-> Rock Crusher 		-> 1x Crushed Ore + 10% Secondary Crushed Ore Chance
+Metal Ore 			-> Grindstone 			-> 1x Dust + 75% Secondary Dust Chance
+
+Dense Metal Ore 	-> TCon Smeltery 		-> 432 mB Molten Liquid
+Dense Metal Ore		-> Magma Crucible		-> 432mB Molten Liquid
+Dense Metal Ore 	-> Pulverizer 			-> 6x Dust + 90% Secondary Dust Output Chance
+Dense Metal Ore 	-> Rock Crusher			-> 3x Crushed Ore + 90% Secondary Crushed Ore Chance
+Dense Metal Ore 	-> Grindstone			-> 5x Dust
+
+Mineral Ore			-> TCon Smeltery		-> 144mB Molten Liquid
+Mineral Ore			-> Magma Crucible		-> 144mB Molten Liquid
+Mineral Ore			-> Rock Crusher			-> Output Crushed (if available)
+Mineral Ore			-> Pulverizer 			-> Output Dust (if available)
+Mineral Ore 		-> Grindstone 			-> Output Dust
+
+Dust 				-> TCon Smeltery 		-> 144mB Molten Liquid
+Dust				-> Magma Crucible		-> 144mB Molten Liquid
+Dust				-> Induction Smelter	-> 1x Ingot
+
+Crushed Ore 		-> TCon Smeltery 		-> 288mB Molten Liquid
+Crushed Ore			-> Magma Crucible		-> 288mB Molten Liquid
+Crushed Ore 		-> Pulverizer 			-> 3x Dust
+Crushed Ore			-> Induction Smelter	-> 3x Ingot
+
+Native Cluster 		-> TCon Smeltery 		-> 288mB Molten Liquid
+Native Cluster		-> Magma Crucible		-> 288mB Molten Liquid
+Native Cluster 		-> Pulverizer 			-> 3x Dust
+Native Cluster 		-> Rock Crusher			-> 1x Crushed Ore + 100% Secondary Crushed Output Chance
+
+Oreberry 			-> TCon Smeltery 		-> 16mB Molten Liquid
+Oreberry			-> Magma Crucible		-> 16mB Molten Liquid
+
+Metal Ingot 		-> TCon Smeltery 		-> 144mB Molten Liquid
+Metal Ingot			-> Magma Crucible		-> 144mB Molten Liquid
+Metal Ingot 		-> Pulverizer 			-> 1x Dust
+
+Metal Storage 		-> TCon Smeltery 		-> 1,296mB Molten Liquid
+Metal Storage		-> Magma Crucible		-> 1,296mB Molten Liquid
+Metal Storage		-> Rock Crusher			-> 9x Ingots
+Metal Storage 		-> Pulverizer 			-> 9x Dust
+
+Mineral Storage		-> TCon Smeltery 		-> 1,296mB Molten Liquid
+Mineral Storage		-> Magma Crucible		-> 1,296mB Molten Liquid
+Mineral Storage		-> Rock Crusher			-> Output Crushed
+Mineral Storage 	-> Pulverizer 			-> Output Dust
+Mineral Storage 	-> Grindstone 			-> Output Dust
+
+Metal Nugget		-> TCon Smeltery		-> 16mB Molten Liquid
+Metal Nugget		-> Magma Crucible		-> 16mB Molten Liquid
+
+
+NOTES:
+Alloy Ingots are made in Smeltery or Induction Smelter
+Ore processing cannot be cooked in any furnace
+Rock Crusher is can be used to break down blocks into their original parts
+	Stone -> cobblestone, snow -> 4x snowballs, brick_block -> 4x bricks
+	Also used to turn ores into crushed ores
+Pulverisor is only used to pulverize ores and dyes
+
+/*****
+Secondary Output List:
+	iron -> nickel
+	gold -> aluminum
+	lead -> silver
+	silver -> lead
+	aluminum -> copper
+	nickel -> tin
+	copper -> gold
+	tin -> iron
+	yellorium -> iron
+	platinum -> platinum
+	cobalt -> quartz dust || ardite
+	ardite -> quartz dust || cobalt
+	certus quartz -> charged dust
+	charged certus quartz -> uncharged dust
+*****/
+
+
+/////////////////////////////////////////////
+//		FLUID CRAFTING
+/////////////////////////////////////////////
+
+BuildCraft Refinery Recipes:
+	1mB Forestry Biomass 	+ 1mB Water + 10 RF = 1mB Forestry Ethanol
+	1mB Buildcraft Oil 	 	+ 1mB Water + 10 RF = 1mB Buildcraft Fuel
+
+Forestry Squeezer Recipes:
+	1 Seed				 	+ 10 RF	= 10mB Forestry Seed Oil
+	1 Fruit				 	+ 10 RF = 10mB Forestry Fruit Juice
+	1 Vegetable 			+ 10 RF = 10mB Forestry Fruit Juice
+	1 Forestry Bee Drop		+ 10 RF = XXmB Respective Liquid (like Honey)
+
+Forestry Fermenter Recipes:
+	1 Fruit 				+ 10 RF = 40mB Forestry Biomass
+	1 Vegetable				+ 10 RF = 40mB Forestry Biomass
+
+
+/////////////////////////////////////////////
+//		FLUID CONTAINER CRAFTING
+/////////////////////////////////////////////
+
+Forestry Bottler:
+	Disabled
+	
+Liquid Transposer:
+	Input fluid into the machine from a fluid container.
+	Extract fluid from machine into a fluid container.
+
+Forestry Squeezer:
+	IN FLUID CRAFTING SECTION
+
+
+/////////////////////////////////////////////
+//		ENERGY PRODUCTION
+/////////////////////////////////////////////
+
+Buildcraft Redstone Engine (no GUI):
+	RF/t:
+		N/A
+
+	Redstone Signal -> 	ON
+	Needs To Heat Up -> TRUE
+
+Buildcraft Stirling Engine:
+	RF/t:
+		Solid Fuel = 10 RF/t
+		
+	Redstone Signal -> ON
+	Needs To Heat Up -> TRUE
+	
+Buildcraft Combustion Engine:
+	RF/t:
+		Oil + Water		=   150,000 RF @ 30 RF/t
+		Fuel + Water 	= 1,500,000 RF @ 60 RF/t
+		Ethanol + Water =   600,000 RF @ 40 RF/t
+		
+	Redstone Signal -> ON
+	Needs To Heat Up -> FALSE
+	
+Buildcraft Creative Engine (no GUI):
+	RF/t:
+		FREE = 20 RF/t
+		
+	Redstone Signal -> ON
+	Needs To Heat Up -> FALSE
+
+Railcraft Hobbyist's Steam Engine:
+	RF/t:
+		Solid Fuel + Water = 16 RF/t
+		Steam (Pumped in) 	  = 20 RF/t
+		
+	Redstone Signal -> ON
+	Needs To Heat Up -> TRUE
+	
+Railcraft Commercial Steam Engine:
+	RF/t:
+		Steam (Pumped in) = 40 RF/t
+		
+	Redstone Signal -> ON
+	Needs To Heat Up -> FALSE
+	
+Railcraft Industrial Steam Engine:
+	RF/t:
+		Steam (Pumped in) = 80 RF/t
+		
+	Redstone Signal -> ON
+	Needs To Heat Up -> FALSE
+
+Forestry Clockwork Engine (no GUI):
+	RF/t:
+		Hand Powered = ~23,000 RF @ Max Charge
+		
+	Redstone Signal -> N/A
+	Needs To Heat Up -> TRUE
+
+Forestry Peat-fired Engine:
+	RF/t:
+		Peat			=  50,000 RF @ 10 RF/t
+		Bituminous Peat	= 120,000 RF @ 10 RF/t
+		
+	Redstone Signal -> ON
+	Needs To Heat Up -> FALSE
+	
+Forestry Biomass Engine:
+	RF/t:
+		Fruit Juice + Heat	=  25,000 RF @ 10 RF/t
+		SeedOil + Heat		=  75,000 RF @ 30 RF/t
+		Honey + Heat		=  50,000 RF @ 20 RF/t
+		Biomass + Heat		= 125,000 RF @ 50 RF/t
+		Milk + Lava 		= 100,000 RF @ 10 RF/t
+		Water + Lava  		=  10,000 RF @ 10 RF/t
+		
+	Redstone Signal -> ON
+	Needs To Heat Up -> TRUE
+
+Big Reactors Smallest Reactor:
+	RF/t:
+		Yellorium (No Cooling)	= ? RF @ ~60 RF/t
+		
+	Redstone Signal -> controlled from redstone port
+	Needs To Heat Up -> FALSE
+
+
+/////////////////////////////////////////////
+//		TCON TOOL_PARTS
+/////////////////////////////////////////////
+
+1,000 mb = 1 bucket
+  144 mb = 1 ingot
+  144 mb = 1 gem
+   36 mb = 1 brick
+   72 mb = 1 tool rod
+  144 mb = 1 pickaxe head
+  144 mb = 1 shovel head
+  144 mb = 1 axe head
+  144 mb = 1 sword blade
+   72 mb = 1 wide guard
+   72 mb = 1 hand guard
+   72 mb = 1 crossbar
+   72 mb = 1 binding
+  144 mb = 1 pan
+  144 mb = 1 sign head
+   72 mb = 1 knife blade
+   72 mb = 1 chisel head
+  432 mb = 1 tough rod
+1,152 mb = 1 large plate
+1,152 mb = 1 broad axe head
+1,152 mb = 1 scythe head
+1,152 mb = 1 excavator head
+1,152 mb = 1 large sword blade
+1,152 mb = 1 hammer head
+  432 mb = 1 full guard
+  250 mb = 1 ender pearl
+   72 mb = 1 shuriken
+  576 mb = 1 crossbow limb
+  720 mb = 1 crossbow body
+  576 mb = 1 gear
+  144 mb = 1 tipped bolt
+   16 mb = 1 nugget
+  144 mb = 1 arrow head
+  216 mb = 1 bow limb
+1,296 mb = 1 metal storage block
+  144 mb = 1 metal ore
+   72 mb = 1 metal shard
+   16 mb = 1 metal oreberry
+
+
+#####################################################################################//		
+#							COMMANDS: 
+#		[permisson level] /command - <parameter> <parameter>
+#			information about command
+#####################################################################################
+
+# COFH:
+[-1] /cofh version
+	Displays the installed version of CoFH Core.
+	
+[-1] /cofh help
+	Displays information about CoFH Core's commands.
+	
+[-1] /cofh syntax	
+	Displays the syntax of CoFH Core's commands.
+	
+[-1] /cofh friend - gui || add <username> || remove <username>
+	Allows management of a player's friends list.
+	
+[0] /cofh tps -  o | a | <dimension>
+	Displays the server TPS rate.
+	
+[2] /cofh enchant - <player_optional> <enchantmentID> <level_optional>
+	Applies enchantments to held items.
+	
+[2] /cofh killall - <entityType_optional>
+	Removes all loaded entities of a certain type from the server. (if not specified, hostile mobs will be removed).
+	
+[2] /cofh tpx - <player_optional> - <playerTo> || <dimension> || <x> <y> <z> <dimension_optional>
+	Teleporting to other dimensions.
+	
+[3] /cofh clearblocks - <>
+	Removes blocks of certain types in an area.
+	
+[3] /cofh countblocks - <>
+	Displays the amounts of blocks of certain types in an area.
+	
+[3] /cofh replaceblocks - <>
+	Replaces blocks of certain types with another block type in an area.
+	
+[3] /cofh reloadworldgen
+	Reloads all custom world generation files.
+	
+[4] /cofh unloadchunk
+	Force-unloads the chunk that the command user is looking at.
+	
+# ?:
+	/addperm [perm] [group]
+	Adds a permission to a group.
+	
+	/addplayer [username] [group]
+	Adds a player to a group.
+	
+	/adduuid [UUID] [group]
+	Adds a player by UUID to a group.
+	
+	/listperms {GROUP}
+	Lists all permissions of the group.
+	
+	/removeperm [perm] [group]
+	Removes a permission from a group.
+	
+	/removeplayer [username] [group]
+	Removes a player from a group.
+	
+	/removeuuid [UUID] [group]
+	Removes a player by UUID from a group.
+	
+# Admin Commands Toolbox:
+[4] /pregen <dim> <minX> <maxX> <minZ> <maxZ>
+	Generate a portion of world between chunk coordinates.
+	
+[4] /purgechunks
+	Try to free as many chunks as possible.
+	
+[4] /setspawn <x> <y> <z>
+	Set the default spawn position.
+	
+[4] /pregenspawn <nchunks>
+	Generate nchunks in all directions centered around spawn (Overworld Only).

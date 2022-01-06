@@ -1,0 +1,4 @@
+entity.ItemFrame.name=Item Frame
+entity.MinecartHopper.name=Minecart w/ Hopper
+entity.MinecartChest.name=Minecart w/ Chest
+entity.MinecartFurnace.name=Minecart w/ Furnace

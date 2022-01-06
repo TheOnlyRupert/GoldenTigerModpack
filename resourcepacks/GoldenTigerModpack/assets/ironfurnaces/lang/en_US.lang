@@ -1,0 +1,18 @@
+tile.IronFurnaceActive.name=Invar Furnace
+tile.IronFurnaceIdle.name=Invar Furnace
+tile.GoldFurnaceActive.name=Electrum Furnace
+tile.GoldFurnaceIdle.name=Electrum Furnace
+tile.DiamondFurnaceActive.name=Platinum Furnace
+tile.DiamondFurnaceIdle.name=Platinum Furnace
+tile.ObsidianFurnaceActive.name=Obsidian Furnace
+tile.ObsidianFurnaceIdle.name=Obsidian Furnace
+tile.CrystalFurnaceActive.name=Crystal Furnace
+tile.CrystalFurnaceIdle.name=Crystal Furnace
+
+itemGroup.Ironfurnace=Invar Furnaces
+
+container.crystalfurnace=Crystal Furnace
+container.ironfurnace=Invar Furnace
+container.goldfurnace=Electrum Furnace
+container.diamondfurnace=Platinum Furnace
+container.obsidianfurnace=Obsidian Furnace

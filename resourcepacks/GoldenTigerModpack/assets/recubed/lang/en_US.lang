@@ -1,0 +1,93 @@
+# CATEGORIES
+recubed.category.animals_sheared=Animals Sheared
+recubed.category.arrows_shot=Arrows Shot
+recubed.category.boss_kills=Boss Kills
+recubed.category.blocks_broken=Blocks Broken
+recubed.category.cows_milked=Cows Milked
+recubed.category.damage_dealt=Damage Dealt
+recubed.category.damage_taken=Damage Taken
+recubed.category.dimensions_changed=Dimensions Travelled
+recubed.category.discs_played=Discs Played
+recubed.category.ender_eyes_used=Ender Eyes Used
+recubed.category.ender_pearls_thrown=Ender Pearls Thrown
+recubed.category.entities_ridden=Entities Ridden
+recubed.category.experience_gathered=Experience Collected
+recubed.category.food_eaten=Food Eaten
+recubed.category.items_broken=Items Broken
+recubed.category.items_dropped=Items Dropped
+recubed.category.items_spawned=Items Spawned
+recubed.category.items_picked_up=Items Picked Up
+recubed.category.levels_gained=Levels Gained
+recubed.category.messages_sent=Messages Sent
+recubed.category.mobs_aggroed=Mobs Aggroed
+recubed.category.mobs_killed=Entities Killed
+recubed.category.player_kills=Player Kills
+recubed.category.potions_drank=Potions Drank
+recubed.category.potions_gotten=Potions Affected By
+recubed.category.potions_thrown=Potions Thrown
+recubed.category.sheep_dyed=Sheep Dyed
+recubed.category.snowballs_thrown=Snowballs Thrown
+recubed.category.times_died=Deaths
+recubed.category.times_fished=Times Fished
+recubed.category.times_played=Times Logged In
+recubed.category.times_slept=Times Slept
+
+# DAMAGE
+recubed.damage.inFire=Standing on Fire
+recubed.damage.onFire=Burning
+recubed.damage.lava=Lava
+recubed.damage.inWall=Suffocation
+recubed.damage.drown=Drowning
+recubed.damage.starve=Starvation
+recubed.damage.cactus=Prickling
+recubed.damage.fall=Falling
+recubed.damage.outOfWorld=Out of the World
+recubed.damage.generic=Generic Damage
+recubed.damage.magic=Magic
+recubed.damage.wither=Withering
+recubed.damage.anvil=Anvil
+recubed.damage.fallingBlock=Falling Blocks
+
+# MISC
+recubed.misc.openMenu=Open ReCubed Menu
+recubed.misc.credits=By Vazkii, for #ModJam 3 (RIP)
+recubed.misc.enter=Press ENTER to track this stat
+recubed.misc.type_to_search=(Type to search)
+recubed.misc.see_stats=View Stats
+recubed.misc.total=Total: %s
+recubed.misc.frozen_suffix= (Frozen)
+recubed.misc.others=Others
+recubed.misc.back=Back
+recubed.misc.search=Search: 
+recubed.misc.your_stats=Your Stats
+recubed.no_data=There's no data for this
+recubed.misc.view_stats=View Stats
+recubed.misc.move_hud=Move HUD
+recubed.misc.click_to_set=Left-click to set position
+recubed.misc.escape_to_reset=Press ESC to reset position
+recubed.misc.hud_enabled=HUD Enabled
+recubed.misc.use_gradients=Use Gradients
+recubed.misc.use_vanilla_font=Use Minecraft Font
+recubed.misc.contrast_text=Contrast HUD Text
+recubed.misc.login=Login
+recubed.misc.command=Command
+recubed.misc.chat=Chat Message
+recubed.misc.jump=Jump
+recubed.misc.sprint_jump=Sprint Jump
+recubed.misc.sleep=Sleep
+recubed.misc.shot=Shot
+recubed.misc.critical_shot=Critical Shot
+recubed.misc.experience=Experience
+recubed.misc.level=Level
+recubed.misc.hook_casted=Hook Casted
+recubed.misc.fish_caught=Fish Caught
+recubed.misc.null_item=Invalid Item
+
+# COMMANDS
+recubed.commands.no_perms=You do not have permission to use this command
+recubed.commands.no_category=That category doesn't exist
+recubed.commands.no_backup=That backup doesn't exist
+recubed.commands.command_sucessful=Command Successful
+
+# VANILLA LOCALIZATIONS
+entity.MinecartRideable.name=Minecart

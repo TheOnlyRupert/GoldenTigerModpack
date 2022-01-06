@@ -1,0 +1,74 @@
+{
+   "data": [
+      {
+         "name": "cash001",
+         "maxStackSize": 64,
+         "burnTime": 0
+      },
+      {
+         "name": "cash005",
+         "maxStackSize": 64,
+         "burnTime": 0
+      },
+      {
+         "name": "cash010",
+         "maxStackSize": 64,
+         "burnTime": 0
+      },
+      {
+         "name": "cash020",
+         "maxStackSize": 64,
+         "burnTime": 0
+      },
+      {
+         "name": "cash050",
+         "maxStackSize": 64,
+         "burnTime": 0
+      },
+      {
+         "name": "cash100",
+         "maxStackSize": 64,
+         "burnTime": 0
+      },
+      {
+         "name": "packUpgrade1",
+         "maxStackSize": 1,
+         "burnTime": 0
+      },
+      {
+         "name": "packUpgrade2",
+         "maxStackSize": 1,
+         "burnTime": 0
+      },
+      {
+         "name": "packUpgrade3",
+         "maxStackSize": 1,
+         "burnTime": 0
+      },
+      {
+         "name": "packUpgrade4",
+         "maxStackSize": 1,
+         "burnTime": 0
+      },
+	  {
+         "name": "token1",
+         "maxStackSize": 1,
+         "burnTime": 0
+      },
+	  {
+         "name": "token2",
+         "maxStackSize": 1,
+         "burnTime": 0
+      },
+	  {
+         "name": "token3",
+         "maxStackSize": 1,
+         "burnTime": 0
+      },
+	  {
+         "name": "token4",
+         "maxStackSize": 1,
+         "burnTime": 0
+      }
+   ]
+}

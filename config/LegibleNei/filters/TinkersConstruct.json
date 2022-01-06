@@ -1,0 +1,18 @@
+{Mantle:[
+	{hide:[[*],[]]};
+],
+TConstruct:[
+	{hide:[[BattleSignBlock,HeldItemBlock,rail.wood,Boneana,fluid.molten.mithril,GravelOre],[]]};
+	{hide:[[materials],[0,9,10,12,13,19-21,31]]};
+	{hide:[[manualBook],[3]]};
+	{hide:[[buckets],[29]]};
+	{hide:[[SearedBrick],[3-4]]};
+	{hide:[[MetalBlock],[3-5]]};
+	{keep-one:[[creativeModifier],[]]};
+	{hide:[[pickaxeHead,shovelHead,hatchetHead,binding,toughBinding,toughRod,heavyPlate,swordBlade,handGuard,crossbar,knifeBlade,fullGuard,frypanHead,signHead,chiselHead,scytheBlade,broadAxeHead,excavatorHead,largeSwordBlade,wideGuard,toolRod,toolShard,hammerHead,arrowHead,ShurikenPart,BowLimbPart,CrossbowLimbPart,CrossbowBodyPart,BoltPart],[0-1,7,9]]};
+	{hide:[[*axe,shovel,hatchet,*sword,cutlass,dagger,rapier,frypan,battlesign,mattock,chisel,cleaver,scythe,excavator,hammer,Shuriken,Javelin,ThrowingKnife,ShortBow,LongBow,Crossbow,ArrowAmmo],[],[*Wooden*,*Stone*,*Netherrack*,*Paper*]]}
+],
+IguanaTweaksTConstruct:[
+	{hide:[[clayBucketsTinkers],[29]]};
+]
+}

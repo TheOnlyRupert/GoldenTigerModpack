@@ -1,0 +1,11 @@
+tips.get=Helpful Tip
+
+mp.quickCommands.edit.title=Set your quick command
+mp.quickCommands.title=Quick Commands
+mp.quickCommands.hover=Press %d to run
+mp.quickCommands.hover2=or click
+mp.quickCommands.pause=Pause Game
+mp.text.title=Title
+mp.text.newCmd=New Command
+
+advMode.toggleBoolean=Use "@t" to toggle (true, false)

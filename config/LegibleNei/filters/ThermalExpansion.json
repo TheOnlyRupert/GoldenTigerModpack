@@ -1,0 +1,19 @@
+{
+RedstoneArsenal:[
+	{hide:[[material],[192]]};
+],
+ThermalExpansion:[
+	{hide:[[florb],[1]]};
+],
+ThermalFoundation:[
+	{hide:[[Ore,Storage],[6]]};
+	{hide:[[material],[38,70,102,134]]};
+	{hide:[[lexicon],[]]};
+],
+ThermalDynamics:[
+	{keep-one:[[cover],[],['*hollow:0b*','*hollow:1b*']]};
+],
+denseores:[
+	{hide:[[block1],[2]]};
+]
+}

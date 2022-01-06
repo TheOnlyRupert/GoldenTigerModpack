@@ -1,0 +1,8 @@
+{
+betterquesting:[
+	{hide:[[placeholder,extra_life,guide_book],[]]};
+],
+bq_standard:[
+	{hide:[[loot_chest],[]]};
+]
+}

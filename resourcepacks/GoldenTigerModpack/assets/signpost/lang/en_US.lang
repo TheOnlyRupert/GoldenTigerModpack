@@ -1,0 +1,44 @@
+tile.SignpostBase.name=Waystone
+tile.SignpostPostOAK.name=Oak Signpost
+tile.SignpostPostACACIA.name=Acacia Signpost
+tile.SignpostPostBIGOAK.name=Dark Oak Signpost
+tile.SignpostPostBIRCH.name=Birch Signpost
+tile.SignpostPostIRON.name=Iron Signpost
+tile.SignpostPostJUNGLE.name=Jungle Signpost
+tile.SignpostPostSPRUCE.name=Spruce Signpost
+tile.SignpostPostSTONE.name=Stone Signpost
+
+tile.SignpostBigPostOAK.name=Large Oak Signpost
+tile.SignpostBigPostACACIA.name=Large Acacia Signpost
+tile.SignpostBigPostBIGOAK.name=Large Dark oak Signpost
+tile.SignpostBigPostBIRCH.name=Large Birch Signpost
+tile.SignpostBigPostIRON.name=Large Iron Signpost
+tile.SignpostBigPostJUNGLE.name=Large Jungle Signpost
+tile.SignpostBigPostSPRUCE.name=Large Spruce Signpost
+tile.SignpostBigPostSTONE.name=Large Stone Signpost
+
+item.SignpostTool.name=Wrench - Signpost
+item.SignpostCalibratedTool.name=Wrench - Signpost (Advanced)
+item.SignpostBrush.name=Paintbrush
+
+signpost.discovered=You have discovered the waystone '<Waystone>'
+signpost.notDiscovered=You have not yet discovered <Waystone>
+signpost.errorWorld=The world '<world>' does not exist
+signpost.payment=You have to pay <amount>x 1 Dollar Bills to use this
+signpost.noTeleport=This sign has no destination
+
+signpost.guiPrev=The waystone is <distance> blocks away (Cost: <amount>x 1 Dollar Bills)
+signpost.guiWorldDim=The waystone is not in the same world
+signpost.guiTooFar=The waystone is too far away <distance> blocks (Max <maxDist>)
+
+signpost.confirmTeleport=/signpostconfirm to teleport to <Waystone> for <amount>x 1 Dollar Bills
+signpost.confirmTeleportNoCost=Type '/signpostconfirm' to teleport to <Waystone>
+signpost.noConfirm=There is no signpost teleport to confirm
+
+signpost.getwaystonesleft=You may place <amount> more waystones
+signpost.getsignpostsleft=You may place <amount> more signposts
+signpost.getwaystonesleftop=<player> may place <amount> more waystones
+signpost.getsignpostsleftop=<player> may place <amount> more signposts
+
+signpost.playerNotFound=<player> is not on the server
+signpost.waystoneNotFound=The waystone '<Waystone>' was not found

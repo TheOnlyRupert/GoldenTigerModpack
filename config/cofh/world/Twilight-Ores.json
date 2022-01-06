@@ -1,0 +1,496 @@
+{
+    "coalTwilight": {
+        "template": "uniform",
+        "block": "coal_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 24,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+    "ironTwilight": {
+        "template": "uniform",
+        "block": "iron_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 16,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+    "goldTwilight": {
+        "template": "uniform",
+        "block": "gold_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 7,
+        "numClusters": 4,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+    "redstoneTwilight": {
+        "template": "uniform",
+        "block": "redstone_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 8,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+    "diamondTwilight": {
+        "template": "uniform",
+        "block": "diamond_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 2,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+    "emeraldTwilight": {
+        "template": "uniform",
+        "block": "emerald_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 1,
+        "numClusters": 4,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+    "lapisTwilight": {
+        "template": "uniform",
+        "block": "lapis_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 3,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+	"certusQuartzTwilight": {
+        "template": "uniform",
+        "block": [
+            {
+				"name": "appliedenergistics2:tile.OreQuartz",
+				"metadata": 0,
+				"weight": 92
+			},
+            {
+				"name": "appliedenergistics2:tile.OreQuartzCharged",
+				"metadata": 0,
+				"weight": 8
+			}
+        ],
+		"material": "minecraft:stone",
+        "clusterSize": 5,
+        "numClusters": 2,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+	"copperTwilight": {
+        "template": "uniform",
+        "block": "ThermalFoundation:Ore",
+		"material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 12,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+    "tinTwilight": {
+        "template": "uniform",
+        "block": {
+			"name": "ThermalFoundation:Ore",
+			"metadata": 1
+		},
+		"material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 9,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+    "silver_leadTwilight": {
+        "template": "uniform",
+        "block": [
+            {
+				"name": "ThermalFoundation:Ore",
+				"metadata": 2,
+				"weight": 50
+			},
+            {
+				"name": "ThermalFoundation:Ore",
+				"metadata": 3,
+				"weight": 50
+			}
+        ],
+		"material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+    "nickelTwilight": {
+        "template": "uniform",
+		"block": {
+			"name": "ThermalFoundation:Ore",
+			"metadata": 4
+		},
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+    "platinumTwilight": {
+        "template": "uniform",
+        "generator": "sparse-cluster",
+        "block": {
+			"name": "ThermalFoundation:Ore",
+			"metadata": 5
+		},
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+	"aluminumTwilight": {
+        "template": "uniform",
+        "block": {
+            "name": "TConstruct:SearedBrick",
+            "metadata": 5
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 7,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+	"saltTwilight": {
+        "template": "underwater",
+        "generator": "plate",
+        "block": "harvestcraft:salt",
+        "material": "minecraft:gravel",
+        "numClusters": 10,
+        "radius": 5,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+	"cinnabarTwilight": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": "Thaumcraft:blockCustomOre",
+		"material": "minecraft:stone",
+        "clusterSize": 1,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+	"infusedAirTwilight": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 1
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+                "type": "dictionary",
+                "entry": "PLAINS"
+            }
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+	"infusedFireTwilight": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 2
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+                "type": "dictionary",
+                "entry": "SANDY"
+            }
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+	"infusedWaterTwilight": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 3
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+                "type": "dictionary",
+                "entry": "WATER"
+            }
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+	"infusedEarthTwilight": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 4
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+                "type": "dictionary",
+                "entry": "FOREST"
+            }
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+	"infusedOrderTwilight": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 5
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+                "type": "dictionary",
+                "entry": "MOUNTAIN"
+            }
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+	"infusedEntropyTwilight": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 6
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+                "type": "dictionary",
+                "entry": "SNOWY"
+            }
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+	"amberTwilight": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 7
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 1,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+	"shadowTwilight": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": "TaintedMagic:BlockShadowOre",
+		"material": "minecraft:stone",
+        "clusterSize": 1,
+        "numClusters": 4,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    },
+	"apatiteTwilight": {
+        "template": "uniform",
+        "block": "Forestry:resources",
+        "material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-11
+        ]
+    }
+}

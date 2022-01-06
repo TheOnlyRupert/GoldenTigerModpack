@@ -1,0 +1,14 @@
+{
+ironbackpacks:[
+	{hide:[[jeweledFeather,treatedLeather,nest,nestingUpgrade,nestingAdvancedUpgrade,depthUpgrade],[]]};
+],
+IronChest:[
+	{hide:[[ironGoldUpgrade,goldDiamondUpgrade,copperSilverUpgrade,silverGoldUpgrade,copperIronUpgrade,diamondCrystalUpgrade,woodIronUpgrade,woodCopperUpgrade,diamondObsidianUpgrade],[]]};
+],
+ironfurnaces:[
+	{hide:[[iron_furnace_active,gold_furnace_active,diamond_furnace_active,obsidian_furnace_active,crystal_furnace_active],[]]};
+],
+irontank:[
+	{hide:[[ironGoldUpgrade,goldDiamondUpgrade,copperSilverUpgrade,silverGoldUpgrade,silverDiamondUpgrade,copperIronUpgrade,glassIronUpgrade,glassCopperUpgrade,diamondObsidianUpgrade],[]]};
+]
+}

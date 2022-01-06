@@ -1,0 +1,474 @@
+{
+	"coalBedrock": {
+        "template": "uniform",
+        "block": "coal_ore",
+        "material": "minecraft:bedrock",
+        "clusterSize": 12,
+        "numClusters": 48,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+    "ironBedrock": {
+        "template": "uniform",
+        "block": "iron_ore",
+        "material": "minecraft:bedrock",
+        "clusterSize": 8,
+        "numClusters": 48,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+    "goldBedrock": {
+        "template": "uniform",
+        "block": "gold_ore",
+        "material": "minecraft:bedrock",
+        "clusterSize": 7,
+        "numClusters": 12,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+    "redstoneBedrock": {
+        "template": "uniform",
+        "block": "redstone_ore",
+        "material": "minecraft:bedrock",
+        "clusterSize": 6,
+        "numClusters": 24,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+    "diamondBedrock": {
+        "template": "uniform",
+        "block": "diamond_ore",
+        "material": "minecraft:bedrock",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+    "lapisBedrock": {
+        "template": "uniform",
+        "block": "lapis_ore",
+        "material": "minecraft:bedrock",
+        "clusterSize": 6,
+        "numClusters": 8,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+	"copperBedrock": {
+        "template": "uniform",
+        "block": "ThermalFoundation:Ore",
+		"material": "minecraft:bedrock",
+        "clusterSize": 8,
+        "numClusters": 32,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+    "tinBedrock": {
+        "template": "uniform",
+        "block": {
+			"name": "ThermalFoundation:Ore",
+			"metadata": 1
+		},
+		"material": "minecraft:bedrock",
+        "clusterSize": 8,
+        "numClusters": 24,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+    "silver_leadBedrock": {
+        "template": "uniform",
+        "block": [
+            {
+				"name": "ThermalFoundation:Ore",
+				"metadata": 2,
+				"weight": 50
+			},
+            {
+				"name": "ThermalFoundation:Ore",
+				"metadata": 3,
+				"weight": 50
+			}
+        ],
+		"material": "minecraft:bedrock",
+        "clusterSize": 8,
+        "numClusters": 18,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+    "nickelBedrock": {
+        "template": "uniform",
+		"block": {
+			"name": "ThermalFoundation:Ore",
+			"metadata": 4
+		},
+		"material": "minecraft:bedrock",
+        "clusterSize": 4,
+        "numClusters": 18,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+    "platinumBedrock": {
+        "template": "uniform",
+        "generator": "sparse-cluster",
+        "block": {
+			"name": "ThermalFoundation:Ore",
+			"metadata": 5
+		},
+		"material": "minecraft:bedrock",
+        "clusterSize": 4,
+        "numClusters": 12,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+	"aluminumBedrock": {
+        "template": "uniform",
+        "block": {
+            "name": "TConstruct:SearedBrick",
+            "metadata": 5
+        },
+		"material": "minecraft:bedrock",
+        "clusterSize": 7,
+        "numClusters": 18,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+	"yelloriumBedrock": {
+        "template": "uniform",
+        "generator": "sparse-cluster",
+        "block": "BigReactors:YelloriteOre",
+        "material": "minecraft:bedrock",
+        "clusterSize": 4,
+        "numClusters": 12,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+	"certusQuartzBedrock": {
+        "template": "uniform",
+        "block": [
+            {
+				"name": "appliedenergistics2:tile.OreQuartz",
+				"metadata": 0,
+				"weight": 92
+			},
+            {
+				"name": "appliedenergistics2:tile.OreQuartzCharged",
+				"metadata": 0,
+				"weight": 8
+			}
+        ],
+		"material": "minecraft:bedrock",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+	"cinnabarBedrock": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": "Thaumcraft:blockCustomOre",
+		"material": "minecraft:bedrock",
+        "clusterSize": 3,
+        "numClusters": 8,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+	"infusedAirBedrock": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 1
+        },
+		"material": "minecraft:bedrock",
+        "clusterSize": 6,
+        "numClusters": 12,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+	"infusedFireBedrock": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 2
+        },
+		"material": "minecraft:bedrock",
+        "clusterSize": 6,
+        "numClusters": 12,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+	"infusedWaterBedrock": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 3
+        },
+		"material": "minecraft:bedrock",
+        "clusterSize": 6,
+        "numClusters": 12,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+	"infusedEarthBedrock": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 4
+        },
+		"material": "minecraft:bedrock",
+        "clusterSize": 6,
+        "numClusters": 12,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+	"infusedOrderBedrock": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 5
+        },
+		"material": "minecraft:bedrock",
+        "clusterSize": 6,
+        "numClusters": 12,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+	"infusedEntropyBedrock": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 6
+        },
+		"material": "minecraft:bedrock",
+        "clusterSize": 6,
+        "numClusters": 12,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+	"amberBedrock": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": {
+            "name": "Thaumcraft:blockCustomOre",
+            "metadata": 7
+        },
+		"material": "minecraft:bedrock",
+        "clusterSize": 3,
+        "numClusters": 12,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+	"shadowBedrock": {
+        "template": "uniform",
+		"generator": "sparse-cluster",
+        "block": "TaintedMagic:BlockShadowOre",
+		"material": "minecraft:bedrock",
+        "clusterSize": 2,
+        "numClusters": 12,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+        ]
+    },
+	"cobaltBedrock": {
+        "template": "uniform",
+        "block": {
+            "name": "TConstruct:SearedBrick",
+            "metadata": 1
+        },
+        "material": "minecraft:bedrock",
+        "clusterSize": 3,
+        "numClusters": 16,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+		]
+    },
+	"arditeBedrock": {
+        "template": "uniform",
+        "block": {
+            "name": "TConstruct:SearedBrick",
+            "metadata": 2
+        },
+        "material": "minecraft:bedrock",
+        "clusterSize": 3,
+        "numClusters": 16,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-5
+		]
+    }
+}

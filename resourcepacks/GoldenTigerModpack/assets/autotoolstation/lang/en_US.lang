@@ -1,0 +1,12 @@
+tile.ats_autotoolstation.name=Auto Tool Station
+ats.autotoolstation.description1=Items in the left slot will be added to the Tinkers Construct tool in the middle slot
+ats.autotoolstation.description2=Shift+right-click with empty hand to change mode
+ats.autotoolstation.description3=Blocks might get it stuck
+ats.autotoolstation.thanksticon=Thanks to Tinkers Construct for the Creative Commons 3 Resources
+
+ats.autotoolstation.currentMode=Mode:
+ats.autotoolstation.modechange=Mode changed to: %s
+ats.autotoolstation.mode.applyUntilDone=Apply until done
+ats.autotoolstation.mode.fillOne=Only One Modifier
+
+itemGroup.TiConAutoToolStation=TConstruct Auto Tool Station

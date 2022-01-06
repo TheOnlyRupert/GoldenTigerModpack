@@ -1,0 +1,19 @@
+{
+    "yellorium": {
+        "template": "uniform",
+        "generator": "sparse-cluster",
+        "block": "BigReactors:YelloriteOre",
+        "material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 4,
+        "minHeight": 1,
+        "maxHeight": 9,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			0
+        ]
+    }
+}

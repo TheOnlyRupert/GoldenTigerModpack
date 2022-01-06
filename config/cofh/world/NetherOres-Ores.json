@@ -1,0 +1,339 @@
+{
+	"roofNether": {
+        "template": "uniform",
+        "generator": "sparse-cluster",
+        "block": "minecraft:soul_sand",
+        "material": "minecraft:bedrock",
+        "clusterSize": 4,
+        "numClusters": 1,
+        "minHeight": 124,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherCoal": {
+        "template": "uniform",
+        "block": "NetherOres:tile.netherores.ore.0",
+        "material": "minecraft:netherrack",
+        "clusterSize": 4,
+        "numClusters": 8,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherDiamond": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.0",
+            "metadata": 1
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 6,
+        "numClusters": 3,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherGold": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.0",
+            "metadata": 2
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherIron": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.0",
+            "metadata": 3
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 4,
+        "numClusters": 10,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherLapis": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.0",
+            "metadata": 4
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherRedstone": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.0",
+            "metadata": 5
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 4,
+        "numClusters": 8,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherCopper": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.0",
+            "metadata": 6
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 4,
+        "numClusters": 8,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherTin": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.0",
+            "metadata": 7
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 4,
+        "numClusters": 8,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherEmerald": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.0",
+            "metadata": 8
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 6,
+        "numClusters": 2,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherSilver": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.0",
+            "metadata": 9
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 2,
+        "numClusters": 6,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherLead": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.0",
+            "metadata": 10
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 2,
+        "numClusters": 6,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherYellorium": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.0",
+            "metadata": 11
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 2,
+        "numClusters": 4,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherPlatinum": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.1",
+            "metadata": 0
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 2,
+        "numClusters": 4,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherNickel": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.1",
+            "metadata": 1
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherSuflur": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.1",
+            "metadata": 5
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 4,
+        "numClusters": 8,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherTitanium": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.1",
+            "metadata": 6
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 1,
+        "numClusters": 4,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    },
+	"netherSalt": {
+        "template": "uniform",
+        "block": {
+            "name": "NetherOres:tile.netherores.ore.1",
+            "metadata": 13
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 4,
+        "numClusters": 8,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+		]
+    }
+}

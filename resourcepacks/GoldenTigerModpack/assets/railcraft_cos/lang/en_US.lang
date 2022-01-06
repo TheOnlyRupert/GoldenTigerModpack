@@ -1,0 +1,40 @@
+itemGroup.tabRailcraftCos=Railcraft Cosmetic Additions
+
+tile.signalbanner.name=Banner Repeater
+tile.signalsemaphore.name=Semaphore Standard
+tile.signalsemaphorerepeater.name=Semaphore Repeater
+tile.signalsemaphorerepeateralt.name=Semaphore Standard (Repeater)
+tile.sign.whistle.name=Whistle Sign
+tile.sign.mph5.name=Speed Limit Sign
+tile.sign.clearance.name=Limited Clearance Sign
+tile.sign.refuge.name=Limited Refuge Sign
+tile.sign.shunt.name=Limit Of Shunt Sign
+tile.platform.floor.name=Platform
+tile.platform.edge.name=Platform Edge
+tile.platform.edge.line.name=Platform Edge With Line
+tile.platform.transition.name=Platform Transition
+tile.track.grass.name=Grass Track
+tile.track.cobweb.name=Cobweb Track
+
+item.semaphore.arm.name=Signal Arm
+item.sign.blank.name=Blank Sign
+item.train_operator_cap.name=Train Operator Helmet
+item.train_operator_chest.name=Train Operator Chestplate
+item.train_operator_legs.name=Train Operator Leggings
+item.train_operator_boots.name=Train Operator Boots
+item.whistle.name=Whistle
+item.wheels.name=DISABLED
+item.cart.modelled.quarry.name=Minecart w/ Open Top
+item.cart.modelled.liquid.name=Minecart w/ Fluid Tank
+item.cart.modelled.wood.name=Minecart w/ Side Supports
+item.cart.modelled.empty.name=Flatbed Minecart
+item.cart.modelled.panzer.name=Minecart w/ Panzer Tank
+item.cart.modelled.container.name=Minecart w/ Container
+
+entity.railcraft_cos.modelledtankcart.name=Minecart w/ Tank
+entity.railcraft_cos.cart.0.name=Minecart w/ Open Top
+entity.railcraft_cos.cart.2.name=Minecart w/ Side Supports
+entity.railcraft_cos.cart.3.name=Flatbed Minecart
+entity.railcraft_cos.cart.4.name=Minecart w/ Panzer Tank
+entity.railcraft_cos.cart.5.name=Minecart w/ Container
+entity.railcraft_cos.modelledchestcart.name=Minecart w/ Custom Chest

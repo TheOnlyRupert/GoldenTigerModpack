@@ -1,0 +1,40 @@
+#Tips for the loading screen
+Avoid Eldritch Obelisks
+Open quest book with 'O' (by default)
+Pam's gardens can be picked up with right-clicking with an empty hand
+Pam's gardens spread to nearby blocks with time
+Pam's water gardens can grow on land
+Battlegear slots are convenient for weapon holding
+Using too many Translocators can cause TPS lag
+Build multiblocks within the same chunk or chunk load them properly
+Flint and steel actually requires steel
+Tinker's tools can level up: More modifiers and level bonus
+Tinker's faucets can pour fluids into containers
+Found a bug? Report it on GitHub
+Furnaces cannot smelt metals
+Rupert sometimes regrets making a recipe too hard
+Weeds spread to empty crop sticks and destroy other crops
+Max warp can spawn real withers in your face
+You can bookmark items in NEI with 'A' (by default)
+Do not upgrade your backpack with important stuff inside
+Eating too many of the same food doesn't do anything for you
+Remember to check if you have fuel to get home before launching your rocket
+Use the lightning from Twilight Forest Portal and cursed earth creation to your advantage
+Only losers run away from a fight
+See spots where mobs can spawn with PageDown (by default)
+See chunk borders with PageUp (by default)
+How many circuits have you crafted in your life?
+All you had to do was to follow the damn quest line, CJ!
+Click on an item in the quest book to show its recipe in NEI
+Varying foods gives extra hearts
+Mining ores in The Nether agitate nearby Zombie Pigman
+Automate EVERYTHING!
+Do you also watch your oven while baking food?
+There's always something else you can do while waiting
+Spend your money on land... It's the American Dream
+Learn how to bee breed
+You can build giant moving water or air ships
+Only logout when you're in a safe location
+Health regens slowly
+Water is not infinite
+Hungry nodes are ruthless!

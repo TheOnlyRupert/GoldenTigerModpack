@@ -1,0 +1,10 @@
+craftcraft:inventoryCraftingTable.name=Inventory Crafting Table
+craftcraft:portableCraftingTable.name=Portable Crafting Table
+craftcraft:stoneCraftingTable.name=Stone Crafting Table
+craftcraft:netherCraftingTable.name=Nether Crafting Table
+craftcraft:container.inventoryCraftingTable=Inventory Crafting
+
+key.categories.craftcraft=CraftCraft
+key.craftcraft.portableCrafting=Open Portable Crafting
+
+itemGroup.craftcraft=CraftCraft
