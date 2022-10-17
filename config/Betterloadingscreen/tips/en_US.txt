@@ -1,6 +1,5 @@
 #Tips for the loading screen
-Avoid Eldritch Obelisks
-Open quest book with 'O' (by default)
+Avoid Eldritch Obelisks unless ready to fight
 Pam's gardens can be picked up with right-clicking with an empty hand
 Pam's gardens spread to nearby blocks with time
 Pam's water gardens can grow on land
@@ -11,13 +10,12 @@ Flint and steel actually requires steel
 Tinker's tools can level up: More modifiers and level bonus
 Tinker's faucets can pour fluids into containers
 Found a bug? Report it on GitHub
-Furnaces cannot smelt metals
+Furnaces cannot smelt metal
 Rupert sometimes regrets making a recipe too hard
 Weeds spread to empty crop sticks and destroy other crops
-Max warp can spawn real withers in your face
+Max warp can spawn real withers right in yo face
 You can bookmark items in NEI with 'A' (by default)
 Do not upgrade your backpack with important stuff inside
-Eating too many of the same food doesn't do anything for you
 Remember to check if you have fuel to get home before launching your rocket
 Use the lightning from Twilight Forest Portal and cursed earth creation to your advantage
 Only losers run away from a fight
@@ -37,4 +35,24 @@ You can build giant moving water or air ships
 Only logout when you're in a safe location
 Health regens slowly
 Water is not infinite
-Hungry nodes are ruthless!
+Hungry nodes are ruthless
+Drive fast, die last
+Extra utilities is the earliest way to get an infinite water source and cobble generator
+It is recommended to follow the quests as it explains some modpack-specific mechanics
+Mining ores in the nether angers zombie pigmen
+Tinkers crossbows are the best weapons ever
+Over 1,200 in-depth quests that are meant to challenge and reward you
+Land costs $1,000 for the first chunk then $100 for each adjacent chunk
+Chunk loaders cost $200, load a 3x3 chunk area, and require $1 for every 12 hours of operation
+Some items are only purchasable with cash in the quest book
+Vanilla farming has a 50% chance of dropping nothing when harvesting crops
+Hold Shift over a Tinker's Pattern or Cast to view the enabled materials
+Some Thermal Expansion Machines do not have Augments in them when crafted
+Some Advanced Rocketry Multiblocks are disabled because they are recursive with already existing mods
+Most of Extra Utilities Generators need to be purchased using a token
+Applied Energistics Meteors are disabled.
+Passive mobs will attack you in numbers if attacked
+Ores spawns have been balanced and re-worked
+After eating 100 food items, Spice-of-life mod takes effect and you need to vary your food intake
+Heath takes much longer to heal
+If an item is not showing up in NEI, it's most likely disabled

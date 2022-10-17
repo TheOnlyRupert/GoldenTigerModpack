@@ -80,7 +80,7 @@ mods.thermalexpansion.Smelter.addRecipe(120000, <Thaumcraft:ItemResource:2>, <Th
 mods.thermalexpansion.Smelter.addRecipe(800, <ExtraUtilities:decorativeBlock2:5>, <ThermalFoundation:material:4>*2, <ThermalExpansion:Glass:0>, <ThermalExpansion:material:515>, 100);
 mods.thermalexpansion.Smelter.addRecipe(800, <ExtraUtilities:decorativeBlock2:5>, <ThermalFoundation:material:43>*2, <ThermalExpansion:Glass:1>, <ThermalExpansion:material:515>, 100);
 # Red Alloy Ingot:
-mods.thermalexpansion.Smelter.addRecipe(3200, <minecraft:redstone>*4, <ThermalFoundation:material:0>, <ProjRed|Core:projectred.core.part:10>, <ThermalExpansion:material:514>, 100);
+mods.thermalexpansion.Smelter.addRecipe(3200, <minecraft:redstone>*4, <ThermalFoundation:material:32>, <ProjRed|Core:projectred.core.part:10>, <ThermalExpansion:material:514>, 100);
 # RedstoneArsenal:
 mods.thermalexpansion.Smelter.addRecipe(3200, <ThermalFoundation:material:512>, <RedstoneArsenal:material:0>, <RedstoneArsenal:material:32>, <ThermalExpansion:material:515>, 100);
 # Rubber:
@@ -238,33 +238,33 @@ mods.thermalexpansion.Crucible.addRecipe(600, <aobd:crushedAluminium>, <liquid:a
 # Mana:
 mods.thermalexpansion.Crucible.addRecipe(12800, <Thaumcraft:ItemEldritchObject:3>, <liquid:mana>*144);
 # Dusts:
-//mods.thermalexpansion.Crucible.addRecipe(600, <TConstruct:materials:38>, <liquid:ardite.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <TConstruct:materials:39>, <liquid:cobalt.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <TConstruct:materials:40>, <liquid:aluminum.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <TConstruct:materials:41>, <liquid:manyullyn.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <TConstruct:materials:42>, <liquid:aluminumbrass.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <TConstruct:materials:38>, <liquid:ardite.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <TConstruct:materials:39>, <liquid:cobalt.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <TConstruct:materials:40>, <liquid:aluminum.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <TConstruct:materials:41>, <liquid:manyullyn.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <TConstruct:materials:42>, <liquid:aluminumbrass.molten>*144);
 mods.thermalexpansion.Crucible.addRecipe(600, <BigReactors:BRIngot:4>, <liquid:yellorium>*144);
 mods.thermalexpansion.Crucible.addRecipe(600, <BigReactors:BRIngot:5>, <liquid:cyanite>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:0>, <liquid:iron.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:1>, <liquid:gold.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:2>, <liquid:coal>*100);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:4>, <liquid:obsidian.molten>*36);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:32>, <liquid:copper.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:33>, <liquid:tin.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:34>, <liquid:silver.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:35>, <liquid:lead.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:36>, <liquid:nickel.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:37>, <liquid:platinum.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:39>, <liquid:electrum.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:40>, <liquid:invar.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:41>, <liquid:bronze.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:42>, <liquid:signalum.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:43>, <liquid:lumium.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:44>, <liquid:enderium.molten>*144);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:512>, <liquid:pyrotheum>*100);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:513>, <liquid:cryotheum>*100);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:514>, <liquid:aerotheum>*100);
-//mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:515>, <liquid:petrotheum>*100);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:0>, <liquid:iron.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:1>, <liquid:gold.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:2>, <liquid:coal>*100);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:4>, <liquid:obsidian.molten>*36);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:32>, <liquid:copper.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:33>, <liquid:tin.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:34>, <liquid:silver.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:35>, <liquid:lead.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:36>, <liquid:nickel.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:37>, <liquid:platinum.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:39>, <liquid:electrum.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:40>, <liquid:invar.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:41>, <liquid:bronze.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:42>, <liquid:signalum.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:43>, <liquid:lumium.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:44>, <liquid:enderium.molten>*144);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:512>, <liquid:pyrotheum>*100);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:513>, <liquid:cryotheum>*100);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:514>, <liquid:aerotheum>*100);
+mods.thermalexpansion.Crucible.addRecipe(600, <ThermalFoundation:material:515>, <liquid:petrotheum>*100);
 # Ingots:
 mods.thermalexpansion.Crucible.addRecipe(600, <BigReactors:BRIngot:0>, <liquid:yellorium>*144);
 mods.thermalexpansion.Crucible.addRecipe(600, <BigReactors:BRIngot:1>, <liquid:cyanite>*144);

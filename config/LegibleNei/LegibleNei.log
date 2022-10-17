@@ -15,9 +15,9 @@ keep: |default|default|MASK|default|default|MASK|MASK|MASK|MASK|
 keep-onei: |oneid|oneid|default|oneid|oneid|default|default|default|default|
 show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 ----------------------------------------------------
-5871 items registered
+6101 items registered
 141 filters loaded
-738 items matched in 227 ms
+770 items matched in 463 ms
 ----------------------------------------------------
 
 - advancedRocketry :
@@ -578,12 +578,10 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 	+ treatedLeather:                           	hide:[]
 - IronChest :
 	+ copperIronUpgrade:                        	hide:[]
-	+ copperSilverUpgrade:                      	hide:[]
 	+ diamondCrystalUpgrade:                    	hide:[]
 	+ diamondObsidianUpgrade:                   	hide:[]
 	+ goldDiamondUpgrade:                       	hide:[]
 	+ ironGoldUpgrade:                          	hide:[]
-	+ silverGoldUpgrade:                        	hide:[]
 	+ woodCopperUpgrade:                        	hide:[]
 	+ woodIronUpgrade:                          	hide:[]
 - ironfurnaces :
@@ -595,13 +593,21 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 - irontank :
 	+ copperIronUpgrade:                        	hide:[]
 	+ copperSilverUpgrade:                      	hide:[]
+	+ diamondEmeraldUpgrade:                    	hide:[]
 	+ diamondObsidianUpgrade:                   	hide:[]
+	+ emeraldStainlesssteelUpgrade:             	hide:[]
+	+ emeraldTank:                              	hide:[]
 	+ glassCopperUpgrade:                       	hide:[]
 	+ glassIronUpgrade:                         	hide:[]
 	+ goldDiamondUpgrade:                       	hide:[]
 	+ ironGoldUpgrade:                          	hide:[]
 	+ silverDiamondUpgrade:                     	hide:[]
 	+ silverGoldUpgrade:                        	hide:[]
+	+ stainlesssteelTank:                       	hide:[]
+	+ stainlesssteelTitaniumUpgrade:            	hide:[]
+	+ titaniumTank:                             	hide:[]
+	+ titaniumTungstensteelUpgrade:             	hide:[]
+	+ tungstensteelTank:                        	hide:[]
 - libVulpes :
 	+ libVulpesmetal0:                          	hide:[1, 2, 4, 5, 6, 9]
 	+ libVulpesore0:                            	hide:[1, 2, 4, 5, 6, 9]
@@ -676,7 +682,6 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 	+ firestone.recharge:                       	hide:[]
 	+ fluid.creosote.cell:                      	hide:[]
 	+ ingot:                                    	hide:[]
-	+ machine.alpha:                            	hide:[2, 13]
 	+ machine.epsilon:                          	hide:[0]
 	+ nugget:                                   	hide:[]
 	+ part.gear:                                	hide:[]
@@ -702,7 +707,7 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 - StevesCarts :
 	+ BlockJunction:                            	hide:[]
 	+ ModularCart:                              	hide:[]
-	+ ModuleComponents:                         	hide:[11, 12]
+	+ ModuleComponents:                         	hide:[11, 12, 44, 58]
 - TConstruct :
 	+ ArrowAmmo:                                	hide:[]/[*Netherrack*, *Paper*, *Stone*, *Wooden*]
 	+ arrowhead:                                	hide:[0, 1, 7, 9]
@@ -832,6 +837,34 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 	+ ingredient:                               	hide:[46, 47, 49, 81, 107, 127]
 	+ snowdoubleslab:                           	hide:[]
 	+ witchwooddoubleslab:                      	hide:[]
+- yurtmod :
+	+ tile.bed_roof:                            	hide:[]
+	+ tile.bed_wall:                            	hide:[]
+	+ tile.bedouin_door_0:                      	hide:[]
+	+ tile.bedouin_door_1:                      	hide:[]
+	+ tile.bedouin_door_2:                      	hide:[]
+	+ tile.bedouin_frame_roof:                  	hide:[]
+	+ tile.bedouin_frame_wall:                  	hide:[]
+	+ tile.indlu_door_0:                        	hide:[]
+	+ tile.indlu_door_1:                        	hide:[]
+	+ tile.indlu_door_2:                        	hide:[]
+	+ tile.indlu_frame_wall:                    	hide:[]
+	+ tile.indlu_wall_inner:                    	hide:[]
+	+ tile.indlu_wall_outer:                    	hide:[]
+	+ tile.tepee_door_0:                        	hide:[]
+	+ tile.tepee_door_1:                        	hide:[]
+	+ tile.tepee_door_2:                        	hide:[]
+	+ tile.tepee_frame_wall:                    	hide:[]
+	+ tile.tepee_wall:                          	hide:[]
+	+ tile.yurt_door_0:                         	hide:[]
+	+ tile.yurt_door_1:                         	hide:[]
+	+ tile.yurt_door_2:                         	hide:[]
+	+ tile.yurt_frame_roof:                     	hide:[]
+	+ tile.yurt_frame_wall:                     	hide:[]
+	+ tile.yurt_roof:                           	hide:[]
+	+ tile.yurt_wall_inner:                     	hide:[]
+	+ tile.yurt_wall_outer:                     	hide:[]
+	+ tile.yurtmod_barrier:                     	hide:[]
 - zettaindustries :
 	+ SmartCardTerminalExtension:               	hide:[]
 	+ zettaindustries.fakeitem:                 	hide:[]

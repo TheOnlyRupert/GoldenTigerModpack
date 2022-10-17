@@ -17,4 +17,5 @@ recipes.addShaped(<yurtmod:item.tent:11>, [[<StorageDrawers:upgrade:4>, <Storage
 recipes.remove(<yurtmod:item.tent_hammer>);
 recipes.remove(<yurtmod:item.super_tent_hammer>);
 recipes.addShapeless(<yurtmod:item.tent_hammer>, [<ore:wrench>, <ore:slimeball>, <TConstruct:heavyPlate:3>]);
+recipes.addShaped(<yurtmod:item.tent_hammer>, [[<minecraft:flint>, <minecraft:flint>, <minecraft:flint>], [<minecraft:flint>, <yurtmod:item.tent_hammer>.onlyDamaged(), <minecraft:flint>], [<minecraft:flint>, <minecraft:flint>, <minecraft:flint>]]);
 recipes.addShapeless(<yurtmod:item.super_tent_hammer>, [<yurtmod:item.tent_hammer>, <ore:slimeball>, <TConstruct:heavyPlate:202>]);

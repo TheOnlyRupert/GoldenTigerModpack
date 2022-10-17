@@ -76,6 +76,8 @@ Secondary Output List:
 	tin -> iron
 	yellorium -> iron
 	platinum -> platinum
+	titanium -> iridium
+	iridium -> titanium
 	cobalt -> quartz dust || ardite
 	ardite -> quartz dust || cobalt
 	certus quartz -> charged dust

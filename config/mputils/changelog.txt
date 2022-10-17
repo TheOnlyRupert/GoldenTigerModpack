@@ -1,2 +1,9 @@
+# v1.1.0 released 2022_10_16
+- Added weather2 mod - Weather is now localized.
+- Added zombieawareness mod - Zombies will now hunt you down.
+- Added cookingforblockheads mod - Cooking is now more enjoyable.
+- Decreased infernal mob spawn rate by a factor of ten.
+- King Slimes are now always infernal.
+
 # v1.0.0 released 2022_01_01
-- Initial Upload
+- Initial Upload.

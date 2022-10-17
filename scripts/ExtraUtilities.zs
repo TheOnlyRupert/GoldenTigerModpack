@@ -86,9 +86,9 @@ recipes.removeShaped(<ExtraUtilities:unstableingot:0>, [[<ExtraUtilities:unstabl
 recipes.remove(<ExtraUtilities:bedrockiumIngot>);
 recipes.addShaped(<ExtraUtilities:bedrockiumIngot>*9, [[<ExtraUtilities:block_bedrockium>]]);
 
-# New Iron Spike Recipe (Invar Spike)
+# New Spike Recipes
 recipes.remove(<ExtraUtilities:spike_base>);
-recipes.addShaped(<ExtraUtilities:spike_base>*4, [[null, <ThermalFoundation:tool.swordInvar>, null], [<ThermalFoundation:tool.swordInvar>, <ThermalFoundation:material:72>, <ThermalFoundation:tool.swordInvar>], [<ThermalFoundation:material:72>, <ThermalFoundation:Storage:8>, <ThermalFoundation:material:72>]]);
+recipes.addShaped(<ExtraUtilities:spike_base>, [[null, <ThermalFoundation:tool.swordInvar>, null], [<ThermalFoundation:tool.swordInvar>, <ThermalFoundation:material:72>, <ThermalFoundation:tool.swordInvar>], [<ThermalFoundation:material:72>, <ThermalFoundation:Storage:8>, <ThermalFoundation:material:72>]]);
 
 # New Sorting Pipe Recipe
 recipes.remove(<ExtraUtilities:pipes:9>);

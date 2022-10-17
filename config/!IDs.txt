@@ -56,7 +56,8 @@ SoulShards:						60
 Minecraft:						61 - 62		//Static
 Special Mobs:					63 - 68
 Thaumic Tinkerer:				69 - 82
-BattleGear:						83 - 89
+BattleGear:						83 - 89
+
 
 ############################################################################
 # Potion IDs
@@ -136,4 +137,4 @@ Extra Utilities || Underdark:		-2
 Minecraft || Hell:					-1		//Static
 Minecraft || Surface:				0		//Static
 Minecraft || End:					1		//Static
-Advanced Rocketry || Planets:		2 - ~100
+Advanced Rocketry || Planets:		2 - 81

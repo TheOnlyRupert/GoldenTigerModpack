@@ -1,5 +1,5 @@
 {
 yurtmod:[
-	{hide:[[tile.yurt_door_0.tile.yurt_door_1,tile.yurt_door_2,tile.tepee_door_0.tile.tepee_door_1,tile.tepee_door_2,tile.bedouin_door_0.tile.bedouin_door_1,tile.bedouin_door_2,tile.indlu_door_0.tile.indlu_door_1,tile.indlu_door_2,tile.yurt_wall_outer,tile.yurt_roof,tile.tepee_wall,tile.bed_wall,tile.bed_roof,tile.indlu_wall_outer,tile.indlu_wall_inner,tile.indlu_floor,tile.yurtmod_barrier,tile.yurt_frame_wall,tile.yurt_frame_roof,tile.tepee_frame_wall,tile.bedouin_frame_wall,tile.bedouin_frame_roof,tile.indlu_frame_wall,tile.yurt_wall_inner],[]]};
+	{hide:[[tile.yurt_door_0,tile.yurt_door_1,tile.yurt_door_2,tile.tepee_door_0,tile.tepee_door_1,tile.tepee_door_2,tile.bedouin_door_0,tile.bedouin_door_1,tile.bedouin_door_2,tile.indlu_door_0,tile.indlu_door_1,tile.indlu_door_2,tile.yurt_wall_outer,tile.yurt_roof,tile.tepee_wall,tile.bed_wall,tile.bed_roof,tile.indlu_wall_outer,tile.indlu_wall_inner,tile.indlu_floor,tile.yurtmod_barrier,tile.yurt_frame_wall,tile.yurt_frame_roof,tile.tepee_frame_wall,tile.bedouin_frame_wall,tile.bedouin_frame_roof,tile.indlu_frame_wall,tile.yurt_wall_inner],[]]};
 ]
 }

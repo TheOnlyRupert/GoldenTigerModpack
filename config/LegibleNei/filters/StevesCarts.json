@@ -1,6 +1,6 @@
 {
 StevesCarts:[
 	{hide:[[BlockJunction,ModularCart],[]]};
-	{hide:[[ModuleComponents],[11-12]]};
+	{hide:[[ModuleComponents],[11,12,44,58]]};
 ]
 }

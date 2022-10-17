@@ -2,7 +2,6 @@
 Railcraft:[
 	{hide:[[residual.heat,worldlogic,firestone.recharge,fluid.creosote.cell,nugget,part.plate,dust,part.gear,cart.anchor.personal,ingot],[]]};
 	{hide:[[cube],[2,9-11]]};
-	{hide:[[machine.alpha],[2,13]]};
 	{hide:[[machine.epsilon],[0]]};
 ],
 railcraft_cos:[

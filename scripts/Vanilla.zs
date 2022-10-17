@@ -19,6 +19,10 @@ recipes.remove(<minecraft:stone_shovel>);
 recipes.remove(<minecraft:stone_pickaxe>);
 recipes.remove(<minecraft:stone_axe>);
 
+# Add Hopper Recipe (Other metals allowed)
+recipes.addShaped(<minecraft:hopper>, [[<ThermalFoundation:material:64>, null, <ThermalFoundation:material:64>], [<ThermalFoundation:material:64>, <minecraft:chest>, <ThermalFoundation:material:64>], [null, <ThermalFoundation:material:64>, null]]);
+recipes.addShaped(<minecraft:hopper>, [[<ThermalFoundation:material:65>, null, <ThermalFoundation:material:65>], [<ThermalFoundation:material:65>, <minecraft:chest>, <ThermalFoundation:material:65>], [null, <ThermalFoundation:material:65>, null]]);
+
 # Remove Chain Armor (Fire) Recipes
 recipes.remove(<minecraft:chainmail_helmet>);
 recipes.remove(<minecraft:chainmail_chestplate>);

@@ -9,6 +9,6 @@ ironfurnaces:[
 	{hide:[[iron_furnace_active,gold_furnace_active,diamond_furnace_active,obsidian_furnace_active,crystal_furnace_active],[]]};
 ],
 irontank:[
-	{hide:[[ironGoldUpgrade,goldDiamondUpgrade,copperSilverUpgrade,silverGoldUpgrade,silverDiamondUpgrade,copperIronUpgrade,glassIronUpgrade,glassCopperUpgrade,diamondObsidianUpgrade],[]]};
+	{hide:[[ironGoldUpgrade,goldDiamondUpgrade,copperSilverUpgrade,silverGoldUpgrade,silverDiamondUpgrade,copperIronUpgrade,glassIronUpgrade,glassCopperUpgrade,diamondObsidianUpgrade,emeraldTank,stainlesssteelTank,titaniumTank,tungstensteelTank,diamondEmeraldUpgrade,emeraldStainlesssteelUpgrade,stainlesssteelTitaniumUpgrade,titaniumTungstensteelUpgrade],[]]};
 ]
 }
