@@ -353,6 +353,7 @@ mods.thermalexpansion.Pulverizer.removeRecipe(<aobd:clusterAluminium>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<aobd:clusterShadow>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<aobd:clusterIronwood>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<aobd:clusterKnightmetal>);
+mods.thermalexpansion.Pulverizer.removeRecipe(<aobd:clusterHeeEndium>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<FissionWarfare:radioactive_chunk>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<TwilightForest:item.ironwoodRaw>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<TwilightForest:item.shardCluster>);
@@ -458,6 +459,7 @@ mods.thermalexpansion.Pulverizer.addRecipe(3200, <aobd:crushedIridium>, <libVulp
 mods.thermalexpansion.Pulverizer.addRecipe(3200, <aobd:crushedDraconium>, <DraconicEvolution:draconiumDust>*3);
 mods.thermalexpansion.Pulverizer.addRecipe(3200, <aobd:crushedKnightmetal>, <aobd:dustKnightmetal>*3);
 mods.thermalexpansion.Pulverizer.addRecipe(3200, <aobd:crushedShadow>, <aobd:dustShadow>*3);
+mods.thermalexpansion.Pulverizer.addRecipe(3200, <aobd:crushedHeeEndium>, <aobd:dustHeeEndium>*3);
 # Clusters -> 3 Dusts:
 mods.thermalexpansion.Pulverizer.addRecipe(3200, <aobd:clusterIridium>, <libVulpes:libVulpesproductdust:10>*3);
 mods.thermalexpansion.Pulverizer.addRecipe(3200, <aobd:clusterTitanium>, <libVulpes:libVulpesproductdust:7>*3);
@@ -470,6 +472,7 @@ mods.thermalexpansion.Pulverizer.addRecipe(3200, <aobd:clusterNickel>, <ThermalF
 mods.thermalexpansion.Pulverizer.addRecipe(3200, <aobd:clusterPlatinum>, <ThermalFoundation:material:37>*3);
 mods.thermalexpansion.Pulverizer.addRecipe(3200, <aobd:clusterShadow>, <aobd:dustShadow>*3);
 mods.thermalexpansion.Pulverizer.addRecipe(3200, <aobd:clusterKnightmetal>, <aobd:dustKnightmetal>*3);
+mods.thermalexpansion.Pulverizer.addRecipe(3200, <aobd:clusterHeeEndium>, <aobd:dustHeeEndium>*3);
 mods.thermalexpansion.Pulverizer.addRecipe(3200, <Thaumcraft:ItemNugget:16>, <ThermalFoundation:material:0>*3);
 mods.thermalexpansion.Pulverizer.addRecipe(3200, <Thaumcraft:ItemNugget:31>, <ThermalFoundation:material:1>*3);
 mods.thermalexpansion.Pulverizer.addRecipe(3200, <Thaumcraft:ItemNugget:17>, <ThermalFoundation:material:32>*3);

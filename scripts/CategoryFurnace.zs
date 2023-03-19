@@ -65,6 +65,8 @@ furnace.remove(<StevesCarts:ModuleComponents:12>);
 furnace.remove(<TaintedMagic:ItemMaterial:0>);
 furnace.remove(<TwilightForest:item.ironwoodIngot>);
 furnace.remove(<TwilightForest:item.knightMetal>);
+furnace.remove(<HardcoreEnderExpansion:endium_ingot>);
+furnace.remove(<cookingforblockheads:recipebook:0>);
 
 
 # Add Vanilla Furnace Recipes (<OUTPUT>, <INPUT>):
@@ -94,6 +96,7 @@ mods.thermalexpansion.Furnace.removeRecipe(<minecraft:porkchop>);
 mods.thermalexpansion.Furnace.removeRecipe(<minecraft:nether_brick>);
 mods.thermalexpansion.Furnace.removeRecipe(<minecraft:soul_sand>);
 mods.thermalexpansion.Furnace.removeRecipe(<minecraft:sapling:*>);
+mods.thermalexpansion.Furnace.removeRecipe(<minecraft:book>);
 mods.thermalexpansion.Furnace.removeRecipe(<BigReactors:BRIngot:4>);
 mods.thermalexpansion.Furnace.removeRecipe(<BigReactors:BRIngot:5>);
 mods.thermalexpansion.Furnace.removeRecipe(<BigReactors:BRIngot:6>);
@@ -173,6 +176,7 @@ mods.thermalexpansion.Furnace.removeRecipe(<aobd:crushedLead>);
 mods.thermalexpansion.Furnace.removeRecipe(<aobd:crushedKnightmetal>);
 mods.thermalexpansion.Furnace.removeRecipe(<aobd:crushedShadow>);
 mods.thermalexpansion.Furnace.removeRecipe(<aobd:crushedIronwood>);
+mods.thermalexpansion.Furnace.removeRecipe(<aobd:crushedHeeEndium>);
 mods.thermalexpansion.Furnace.removeRecipe(<aobd:clusterYellorium>);
 mods.thermalexpansion.Furnace.removeRecipe(<aobd:clusterTitanium>);
 mods.thermalexpansion.Furnace.removeRecipe(<aobd:clusterDraconium>);
@@ -185,9 +189,11 @@ mods.thermalexpansion.Furnace.removeRecipe(<aobd:clusterAluminium>);
 mods.thermalexpansion.Furnace.removeRecipe(<aobd:clusterShadow>);
 mods.thermalexpansion.Furnace.removeRecipe(<aobd:clusterIronwood>);
 mods.thermalexpansion.Furnace.removeRecipe(<aobd:clusterKnightmetal>);
+mods.thermalexpansion.Furnace.removeRecipe(<aobd:clusterHeeEndium>);
 mods.thermalexpansion.Furnace.removeRecipe(<aobd:dustShadow>);
 mods.thermalexpansion.Furnace.removeRecipe(<aobd:dustIronwood>);
 mods.thermalexpansion.Furnace.removeRecipe(<aobd:dustKnightmetal>);
+mods.thermalexpansion.Furnace.removeRecipe(<aobd:dustHeeEndium>);
 mods.thermalexpansion.Furnace.removeRecipe(<advancedRocketry:advancedRocketryproductdust:*>);
 mods.thermalexpansion.Furnace.removeRecipe(<ProjRed|Core:projectred.core.part:40>);
 mods.thermalexpansion.Furnace.removeRecipe(<ProjRed|Core:projectred.core.part:41>);
@@ -203,6 +209,8 @@ mods.thermalexpansion.Furnace.removeRecipe(<StevesCarts:ModuleComponents:11>);
 mods.thermalexpansion.Furnace.removeRecipe(<TaintedMagic:BlockShadowOre>);
 mods.thermalexpansion.Furnace.removeRecipe(<TwilightForest:item.ironwoodRaw>);
 mods.thermalexpansion.Furnace.removeRecipe(<TwilightForest:item.shardCluster>);
+mods.thermalexpansion.Furnace.removeRecipe(<HardcoreEnderExpansion:endium_ore>);
+mods.thermalexpansion.Furnace.removeRecipe(<cookingforblockheads:recipebook:3>);
 
 # Add Thermal Expansion Furnace Recipes (InputRF, <Input>, <Output>):
 mods.thermalexpansion.Furnace.addRecipe(250, <minecraft:potion:0>, <harvestcraft:freshwaterItem>);

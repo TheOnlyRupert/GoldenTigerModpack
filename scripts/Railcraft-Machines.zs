@@ -118,6 +118,7 @@ mods.railcraft.RockCrusher.removeRecipe(<DraconicEvolution:draconiumOre>);
 mods.railcraft.RockCrusher.removeRecipe(<TwilightForest:item.ironwoodRaw>);
 mods.railcraft.RockCrusher.removeRecipe(<TwilightForest:item.shardCluster>);
 mods.railcraft.RockCrusher.removeRecipe(<TaintedMagic:BlockShadowOre>);
+mods.railcraft.RockCrusher.removeRecipe(<HardcoreEnderExpansion:endium_ore>);
 
 # Add Rock Crusher Recipes (<InputStack>, matchDamage, matchNBT, [<OutputArray>], [<ChanceArray>])
 # Items:
@@ -158,6 +159,7 @@ mods.railcraft.RockCrusher.addRecipe(<libVulpes:libVulpesore0:8>, true, false, [
 mods.railcraft.RockCrusher.addRecipe(<libVulpes:libVulpesore0:10>, true, false, [<aobd:crushedIridium>, <aobd:crushedTitanium>], [1.0, 0.10]);
 mods.railcraft.RockCrusher.addRecipe(<TwilightForest:item.shardCluster>, true, false, [<aobd:crushedKnightmetal>, <aobd:crushedIron>], [1.0, 0.10]);
 mods.railcraft.RockCrusher.addRecipe(<TaintedMagic:BlockShadowOre>, true, false, [<aobd:crushedShadow>], [1.0]);
+mods.railcraft.RockCrusher.addRecipe(<HardcoreEnderExpansion:endium_ore>, true, false, [<aobd:crushedHeeEndium>], [1.0]);
 # Material Ores:
 mods.railcraft.RockCrusher.addRecipe(<minecraft:coal_ore>, true, false, [<minecraft:coal:0>*2], [1.0]);
 mods.railcraft.RockCrusher.addRecipe(<minecraft:lapis_ore>, true, false, [<minecraft:dye:4>*6], [1.0]);
@@ -181,6 +183,7 @@ mods.railcraft.RockCrusher.addRecipe(<aobd:clusterYellorium>, true, false, [<aob
 mods.railcraft.RockCrusher.addRecipe(<aobd:clusterDraconium>, true, false, [<aobd:crushedDraconium>, <aobd:crushedDraconium>], [1.0, 0.25]);
 mods.railcraft.RockCrusher.addRecipe(<aobd:clusterKnightmetal>, true, false, [<aobd:crushedKnightmetal>, <aobd:crushedKnightmetal>], [1.0, 0.25]);
 mods.railcraft.RockCrusher.addRecipe(<aobd:clusterShadow>, true, false, [<aobd:crushedShadow>, <aobd:crushedShadow>], [1.0, 0.25]);
+mods.railcraft.RockCrusher.addRecipe(<aobd:clusterHeeEndium>, true, false, [<aobd:crushedHeeEndium>, <aobd:crushedHeeEndium>], [1.0, 0.25]);
 # Nether Ores:
 mods.railcraft.RockCrusher.addRecipe(<NetherOres:tile.netherores.ore.0:0>, true, false, [<minecraft:coal:0>*2], [1.0]);
 mods.railcraft.RockCrusher.addRecipe(<NetherOres:tile.netherores.ore.0:1>, true, false, [<minecraft:diamond>*2], [1.0]);

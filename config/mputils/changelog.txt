@@ -2,7 +2,9 @@
 - Added weather2 mod - Weather is now localized.
 - Added zombieawareness mod - Zombies will now hunt you down.
 - Added cookingforblockheads mod - Cooking is now more enjoyable.
+- Added HardcoreEnderExpansion mod - The End is now more expansive.
 - Decreased infernal mob spawn rate by a factor of ten.
+- Decreased cost to expand land within a town.
 - King Slimes are now always infernal.
 
 # v1.0.0 released 2022_01_01

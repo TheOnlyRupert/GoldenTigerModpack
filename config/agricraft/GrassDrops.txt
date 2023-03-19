@@ -67,6 +67,7 @@ harvestcraft:curryleafseedItem,1
 harvestcraft:sesameseedsseedItem,1
 harvestcraft:kiwiseedItem,1
 harvestcraft:cranberryseedItem,1
+harvestcraft:riceseedItem,1
 witchery:seedsbelladonna,1
 witchery:seedsmandrake,1
 witchery:seedsartichoke,1

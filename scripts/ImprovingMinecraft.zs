@@ -4,7 +4,7 @@ recipes.remove(<imc:item_machete_stone>);
 recipes.remove(<imc:item_hunting_knife>);
 recipes.remove(<imc:item_adamantium_ingot>);
 
-# New Colored Flower Pot Recipe [Use Ore Dictionary]
+# New Colored Flower Pot Recipe (Use Ore Dictionary)
 recipes.remove(<imc:item_colored_flower_pot:*>);
 recipes.addShaped(<imc:item_colored_flower_pot:0>, [[<minecraft:flower_pot>, <ore:dyeBlack>]]);
 recipes.addShaped(<imc:item_colored_flower_pot:1>, [[<minecraft:flower_pot>, <ore:dyeRed>]]);

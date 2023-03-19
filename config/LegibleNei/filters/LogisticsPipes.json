@@ -1,6 +1,7 @@
 {
 LogisticsPipes:[
-	{hide:[[logisticsPipeBlock,item.pipeComponents,item.itemUpgrade,item.logisticsFluidContainer,item.brokenItem,item.PipeItemsBasicTransport],[]]};
-	{hide:[[item.itemModule],[15,301]]};
+	{hide:[[item.brokenItem,item.PipeItemsBasicTransport],[]]};
+	{hide:[[item.logisticsParts],[5-8]]};
+	{hide:[[item.itemModule],[15,300,301]]};
 ]
 }

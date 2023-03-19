@@ -1,8 +1,8 @@
 # Remove Unbalanced Iron Chest Upgrade Recipes
 recipes.remove(<IronChest:ironGoldUpgrade>);
 recipes.remove(<IronChest:goldDiamondUpgrade>);
-recipes.remove(<IronChest:copperSilverUpgrade>);
-recipes.remove(<IronChest:silverGoldUpgrade>);
+recipes.remove(<IronChest:copperSteelUpgrade>);
+recipes.remove(<IronChest:steelGoldUpgrade>);
 recipes.remove(<IronChest:copperIronUpgrade>);
 recipes.remove(<IronChest:diamondCrystalUpgrade>);
 recipes.remove(<IronChest:woodIronUpgrade>);
@@ -20,6 +20,9 @@ recipes.addShaped(<IronChest:BlockIronChest:0>, [[<ore:blockGlass>, <minecraft:i
 recipes.addShaped(<IronChest:BlockIronChest:4>, [[<ore:blockGlass>, <ThermalFoundation:material:72>, <ore:blockGlass>], [<ThermalFoundation:material:72>, <IronChest:BlockIronChest:0>, <ThermalFoundation:material:72>], [<ore:blockGlass>, <ThermalFoundation:material:72>, <ore:blockGlass>]]);
 recipes.addShaped(<IronChest:BlockIronChest:1>, [[<ore:blockGlass>, <ThermalFoundation:material:71>, <ore:blockGlass>], [<ThermalFoundation:material:71>, <IronChest:BlockIronChest:4>, <ThermalFoundation:material:71>], [<ore:blockGlass>, <ThermalFoundation:material:71>, <ore:blockGlass>]]);
 recipes.addShaped(<IronChest:BlockIronChest:2>, [[<ore:blockGlass>, <ThermalFoundation:material:69>, <ore:blockGlass>], [<ThermalFoundation:material:69>, <IronChest:BlockIronChest:1>, <ThermalFoundation:material:69>], [<ore:blockGlass>, <ThermalFoundation:material:69>, <ore:blockGlass>]]);
+recipes.addShaped(<IronChest:BlockIronChest:5>, [[<minecraft:obsidian>, <minecraft:obsidian>, <minecraft:obsidian>], [<minecraft:obsidian>, <IronChest:BlockIronChest:2>, <minecraft:obsidian>], [<minecraft:obsidian>, <minecraft:obsidian>, <minecraft:obsidian>]]);
+recipes.addShaped(<IronChest:BlockIronChest:6>, [[<ore:glass>, <ore:glass>, <ore:glass>], [<ore:glass>, <IronChest:BlockIronChest:2>, <ore:glass>], [<ore:glass>, <ore:glass>, <ore:glass>]]);
+
 
 # Remove IronBackpacks Nesting Stuff
 recipes.remove(<ironbackpacks:jeweledFeather>);

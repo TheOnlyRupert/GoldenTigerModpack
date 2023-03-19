@@ -260,6 +260,7 @@
 <ore:thermalexpansion:machineIron>.remove(<thaumicenergistics:material:2>);
 <ore:thermalexpansion:machineIron>.remove(<Railcraft:part.gear:1>);
 <ore:thermalexpansion:machineIron>.remove(<BuildCraft|Core:ironGearItem>);
+<ore:thermalexpansion:machineGold>.remove(<BuildCraft|Core:goldGearItem>);
 
 # Remove Dupe Forestry Stuff
 <ore:oreCopper>.remove(<Forestry:resources:1>);
